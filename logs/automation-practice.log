@@ -1,0 +1,1841 @@
+2019-10-28 17:03:46 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 17:05:31 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 17:05:51 INFO  HomePage -main : 23 - Clicked on Sigh In Link
+2019-10-28 17:05:52 INFO  LoginPage -main : 25 - Entered email as abc123@mailinator.com
+2019-10-28 17:05:52 INFO  LoginPage -main : 30 - Entered password as abc1234
+2019-10-28 17:16:04 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 17:16:21 INFO  HomePage -main : 23 - Clicked on Sigh In Link
+2019-10-28 17:16:21 INFO  LoginPage -main : 25 - Entered email as abc123@mailinator.com
+2019-10-28 17:16:21 INFO  LoginPage -main : 30 - Entered password as abc1234
+2019-10-28 17:20:16 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 17:21:01 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 17:22:09 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 17:22:50 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 17:23:12 INFO  HomePage -main : 23 - Clicked on Sigh In Link
+2019-10-28 17:23:12 INFO  LoginPage -main : 25 - Entered email as abc213@mailinator.com
+2019-10-28 17:23:12 INFO  LoginPage -main : 30 - Entered password as abc1234
+2019-10-28 17:25:29 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 17:26:49 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 17:30:02 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 17:30:51 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 17:33:57 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 17:34:15 INFO  HomePage -main : 23 - Clicked on Sigh In Link
+2019-10-28 17:34:15 INFO  LoginPage -main : 25 - Entered email as abc213@mailinator.com
+2019-10-28 17:34:15 INFO  LoginPage -main : 30 - Entered password as abc1234
+2019-10-28 18:25:08 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 18:25:19 INFO  HomePage -main : 23 - Clicked on Sigh In Link
+2019-10-28 18:25:21 INFO  LoginPage -main : 25 - Entered email as abc213@mailinator.com
+2019-10-28 18:25:21 INFO  LoginPage -main : 30 - Entered password as abc1234
+2019-10-28 18:26:15 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 18:26:25 INFO  HomePage -main : 23 - Clicked on Sigh In Link
+2019-10-28 18:26:26 INFO  LoginPage -main : 25 - Entered email as abc213@mailinator.com
+2019-10-28 18:26:26 INFO  LoginPage -main : 30 - Entered password as abc1234
+2019-10-28 18:28:50 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 18:29:01 INFO  HomePage -main : 23 - Clicked on Sigh In Link
+2019-10-28 18:29:02 INFO  LoginPage -main : 25 - Entered email as abc213@mailinator.com
+2019-10-28 18:29:02 INFO  LoginPage -main : 30 - Entered password as abc1234
+2019-10-28 18:29:50 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 18:30:03 INFO  HomePage -main : 23 - Clicked on Sigh In Link
+2019-10-28 18:30:04 INFO  LoginPage -main : 25 - Entered email as abc213@mailinator.com
+2019-10-28 18:30:04 INFO  LoginPage -main : 30 - Entered password as abc1234
+2019-10-28 18:32:42 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 18:32:53 INFO  HomePage -main : 23 - Clicked on Sigh In Link
+2019-10-28 18:32:54 INFO  LoginPage -main : 25 - Entered email as abc213@mailinator.com
+2019-10-28 18:32:54 INFO  LoginPage -main : 30 - Entered password as abc1234
+2019-10-28 18:32:55 INFO  LoginPage -main : 35 - Clicked on Sign In button
+2019-10-28 18:56:57 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 18:57:08 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-10-28 18:57:09 INFO  LoginPage -main : 25 - Entered email as abc213@mailinator.com
+2019-10-28 18:57:09 INFO  LoginPage -main : 30 - Entered password as abc1234
+2019-10-28 18:57:11 INFO  LoginPage -main : 35 - Clicked on Sign In button
+2019-10-28 18:58:51 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 18:59:03 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-28 19:29:42 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 19:29:53 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-28 19:37:04 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 19:37:15 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-28 19:37:20 INFO  Common -main : 17 - sleep for 5000 seconds
+2019-10-28 20:07:03 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 20:07:14 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-28 20:07:17 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-28 20:18:15 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 20:18:25 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-28 20:18:28 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-28 20:26:49 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 20:27:01 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-28 20:27:04 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-28 20:29:22 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 20:29:33 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-28 20:29:36 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-28 20:32:44 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 20:32:56 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-28 20:32:59 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-28 20:38:44 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 20:38:55 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-28 20:38:58 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-28 20:39:01 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-28 20:39:39 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 20:39:49 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-28 20:39:52 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-28 20:39:54 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-28 20:39:57 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-28 20:41:03 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 20:41:11 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-28 20:41:14 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-28 20:43:24 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 20:43:35 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-28 20:43:38 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-28 20:44:16 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 20:44:26 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-28 20:44:29 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-28 20:56:11 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 20:56:29 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-28 20:56:32 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-28 20:59:26 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 20:59:36 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-28 20:59:39 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-28 21:15:41 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 21:15:52 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-28 21:15:55 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-28 21:17:53 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 21:18:05 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-28 21:18:08 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-28 21:19:31 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 21:19:42 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-28 21:19:45 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-28 21:24:05 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 21:24:15 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-28 21:24:18 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-28 21:27:02 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 21:27:13 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-28 21:27:16 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-28 21:30:26 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 21:30:36 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-28 21:30:39 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-28 21:32:33 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 21:32:45 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-28 21:32:48 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-28 21:41:15 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 21:41:25 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-28 21:41:28 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-28 21:43:58 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 21:44:10 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-28 21:44:13 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-28 21:44:15 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-28 21:44:18 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-28 21:56:55 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 21:57:06 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-28 21:57:09 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-28 21:57:11 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-28 21:57:14 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-28 22:18:20 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 22:18:31 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-28 22:18:34 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-28 22:18:36 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-28 22:18:40 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-28 23:15:31 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 23:15:41 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-28 23:15:44 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-28 23:15:47 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-28 23:17:52 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 23:18:03 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-28 23:18:06 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-28 23:18:08 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-28 23:29:09 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 23:29:20 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-28 23:29:23 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-28 23:29:25 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-28 23:31:31 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 23:31:42 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-28 23:31:45 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-28 23:31:48 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-28 23:35:55 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 23:36:07 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-28 23:36:10 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-28 23:36:12 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-28 23:38:15 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 23:38:25 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-28 23:38:28 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-28 23:38:30 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-28 23:39:22 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 23:39:32 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-28 23:39:35 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-28 23:39:37 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-28 23:41:07 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 23:41:18 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-28 23:41:21 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-28 23:41:23 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-28 23:47:33 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 23:47:44 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-28 23:47:47 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-28 23:47:49 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-28 23:50:04 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-28 23:50:14 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-28 23:50:17 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-28 23:50:19 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 00:01:09 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 00:01:19 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 00:01:22 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 00:01:24 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 00:02:16 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 00:02:26 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 00:02:29 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 00:02:31 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 00:22:35 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 00:22:46 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 00:22:49 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 00:22:51 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 00:24:15 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 00:24:25 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 00:24:28 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 00:24:30 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 00:24:33 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 00:24:36 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 00:27:07 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 00:27:17 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 00:27:20 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 00:27:23 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 00:27:26 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 00:27:29 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 00:43:00 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 00:43:11 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 00:43:14 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 00:43:17 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 00:45:29 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 00:45:40 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 00:45:43 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 00:45:45 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 00:48:14 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 00:48:24 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 00:48:27 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 00:48:29 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 00:51:33 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 00:51:42 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 00:51:45 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 00:51:48 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 00:54:06 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 00:54:16 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 00:54:19 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 00:54:21 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 00:58:15 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 00:58:25 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 00:58:28 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 00:58:31 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 00:59:13 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 00:59:40 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 00:59:51 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 00:59:54 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 00:59:56 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 01:00:32 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 01:00:42 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 01:00:45 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 01:00:47 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 01:01:31 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 01:01:41 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 01:01:44 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 01:01:46 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 01:02:39 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 01:02:48 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 01:02:51 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 01:02:54 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 01:03:24 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 01:03:35 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 01:03:38 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 01:03:40 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 01:07:15 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 01:07:26 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 01:07:29 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 01:07:32 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 01:10:12 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 01:10:22 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 01:10:25 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 01:10:27 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 01:12:22 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 01:12:32 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 01:12:35 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 01:12:37 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 01:14:06 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 01:14:16 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 01:14:19 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 01:14:21 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 01:15:10 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 01:15:20 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 01:15:23 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 01:15:25 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 01:15:56 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 01:16:06 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 01:16:09 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 01:16:12 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 01:17:51 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 01:18:01 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 01:18:04 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 01:18:07 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 01:19:22 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 01:19:32 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 01:19:35 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 01:19:37 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 01:20:15 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 01:20:25 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 01:20:28 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 01:20:30 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 01:21:13 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 01:21:15 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 01:21:24 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 01:21:27 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 01:21:30 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 01:26:01 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 01:26:13 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 01:26:16 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 01:26:19 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 01:26:47 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 01:26:59 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 01:27:02 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 01:27:05 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 01:27:47 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 01:27:58 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 01:28:01 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 01:28:03 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 01:28:52 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 01:29:02 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 01:29:05 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 01:29:08 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 01:29:48 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 01:29:59 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 01:30:02 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 01:30:04 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 01:31:51 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 01:32:02 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 01:32:05 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 01:32:54 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 01:33:05 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 01:33:08 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 01:33:11 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 01:33:47 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 01:33:58 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 01:34:01 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 01:34:03 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 01:36:29 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 01:36:40 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 01:36:43 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 01:36:45 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 01:37:22 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 01:37:32 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 01:37:35 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 01:37:37 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 01:41:17 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 01:41:26 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 01:41:29 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 01:41:32 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 08:50:20 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 08:50:31 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 08:50:34 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 08:50:36 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 08:51:42 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 08:51:54 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 08:51:57 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 08:51:59 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 08:52:43 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 08:52:53 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 08:52:56 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 08:52:59 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 08:56:51 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 08:57:01 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 08:57:04 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 08:57:06 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 08:57:43 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 08:57:56 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 08:57:59 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 08:58:01 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 10:44:28 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 10:45:03 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 10:46:45 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 10:48:03 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 10:48:20 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 10:48:23 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 10:48:26 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 10:49:55 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 10:51:22 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 10:52:08 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 10:52:29 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 10:52:32 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 10:52:34 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 10:54:24 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 10:56:27 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 10:57:08 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 10:57:25 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 10:57:28 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 10:57:30 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 10:57:35 INFO  Common -main : 17 - sleep for 5000 seconds
+2019-10-29 10:57:38 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 10:57:41 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 14:48:01 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 14:48:19 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 14:48:22 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 14:48:24 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 14:48:29 INFO  Common -main : 17 - sleep for 5000 seconds
+2019-10-29 14:48:32 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 16:27:30 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 16:27:49 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 16:27:52 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 16:27:54 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 16:28:02 INFO  Common -main : 17 - sleep for 5000 seconds
+2019-10-29 16:28:05 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 20:32:14 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 20:32:25 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 20:32:28 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 20:32:31 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 20:33:20 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 20:33:31 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 20:33:34 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 20:33:37 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 20:36:58 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 20:37:10 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 20:37:13 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 20:37:15 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 20:40:43 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 20:40:54 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 20:40:57 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 20:40:59 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 20:42:30 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 20:42:41 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 20:42:44 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 20:42:47 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 20:43:12 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 20:43:23 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 20:43:26 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 20:43:28 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 20:44:25 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 20:44:36 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 20:44:39 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 20:44:41 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 20:50:36 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 20:50:49 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 20:50:52 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 20:50:55 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 21:58:32 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 21:58:43 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 21:58:46 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 21:58:48 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 21:58:58 INFO  Common -main : 17 - sleep for 5000 seconds
+2019-10-29 21:59:01 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 22:00:03 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 22:00:13 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 22:00:16 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 22:00:19 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 22:01:08 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 22:01:19 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 22:01:22 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 22:01:24 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 22:01:46 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 22:01:57 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 22:02:00 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 22:02:03 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 22:02:12 INFO  Common -main : 17 - sleep for 5000 seconds
+2019-10-29 22:02:15 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 22:03:43 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 22:03:53 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 22:03:56 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 22:03:58 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 22:09:07 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 22:09:18 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 22:09:21 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 22:09:23 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 22:10:56 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 22:11:09 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 22:11:12 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 22:11:15 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 22:17:59 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 22:18:10 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 22:18:13 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 22:18:15 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 23:20:32 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 23:20:42 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 23:20:45 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 23:20:47 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 23:35:47 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 23:35:59 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 23:36:02 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 23:36:04 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 23:37:57 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 23:38:08 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 23:38:11 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 23:38:13 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 23:44:07 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 23:44:17 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 23:44:20 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 23:44:23 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 23:45:14 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 23:45:25 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 23:45:28 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 23:45:30 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 23:46:16 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 23:46:27 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 23:46:30 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 23:46:32 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 23:47:38 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 23:47:48 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 23:47:51 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 23:47:53 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 23:49:41 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 23:49:51 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 23:49:54 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 23:49:56 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 23:51:19 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 23:51:29 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 23:51:32 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 23:51:34 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 23:51:43 INFO  Common -main : 17 - sleep for 5000 seconds
+2019-10-29 23:51:46 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 23:53:08 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 23:53:19 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 23:53:22 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 23:53:24 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 23:54:14 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 23:54:24 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 23:54:27 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 23:54:29 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 23:54:39 INFO  Common -main : 17 - sleep for 5000 seconds
+2019-10-29 23:54:42 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 23:55:22 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 23:55:31 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 23:55:34 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 23:55:37 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 23:55:46 INFO  Common -main : 17 - sleep for 5000 seconds
+2019-10-29 23:55:49 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 23:57:26 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-29 23:57:35 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-29 23:57:38 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-29 23:57:41 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-29 23:57:49 INFO  Common -main : 17 - sleep for 5000 seconds
+2019-10-29 23:57:52 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-30 00:25:17 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-30 00:25:28 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-30 00:25:31 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-30 00:25:33 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-30 00:27:08 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-30 00:27:18 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-30 00:27:21 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-30 00:28:00 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-30 00:28:10 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-30 00:28:13 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-30 00:28:16 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-30 00:29:21 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-30 00:29:32 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-30 00:29:35 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-30 00:29:37 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-30 00:29:46 INFO  Common -main : 17 - sleep for 5000 seconds
+2019-10-30 00:29:49 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-30 00:31:15 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-30 00:31:27 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-30 00:31:30 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-30 00:31:33 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-30 00:34:44 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-30 00:34:53 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-30 00:34:56 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-30 00:34:59 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-30 00:36:29 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-30 00:36:39 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-30 00:36:42 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-30 00:36:44 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-30 00:37:47 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-30 00:37:57 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-30 00:38:00 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-30 00:38:02 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-30 00:39:19 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-30 00:39:30 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-30 00:39:33 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-30 00:39:35 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-30 00:39:45 INFO  Common -main : 17 - sleep for 5000 seconds
+2019-10-30 00:39:48 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-30 00:41:56 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-30 00:42:06 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-30 00:42:09 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-30 00:42:12 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-30 00:44:42 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-30 00:44:52 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-30 00:44:55 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-30 00:44:57 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-30 00:45:06 INFO  Common -main : 17 - sleep for 5000 seconds
+2019-10-30 00:45:09 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-30 00:47:19 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-10-30 00:47:30 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-10-30 00:47:33 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-10-30 00:47:35 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-10-30 00:47:39 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-10-30 00:47:48 INFO  Common -main : 17 - sleep for 6000 seconds
+2019-10-30 00:47:51 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-04 11:07:00 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 11:07:55 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 11:08:14 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-11-04 11:08:17 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-04 11:08:19 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-11-04 11:08:24 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-04 11:08:32 INFO  Common -main : 17 - sleep for 6000 seconds
+2019-11-04 11:08:35 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-04 11:21:42 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 11:23:13 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 11:36:30 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 11:36:55 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 11:38:24 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 11:38:49 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 11:44:47 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 11:45:09 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-04 11:45:09 INFO  LoginPage -main : 25 - Entered email as abc213@mailinator.com
+2019-11-04 11:45:09 INFO  LoginPage -main : 30 - Entered password as abc1234
+2019-11-04 11:45:11 INFO  LoginPage -main : 35 - Clicked on Sign In button
+2019-11-04 11:45:44 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 11:46:09 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 11:47:43 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 11:48:08 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 11:51:00 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 11:51:29 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 11:58:18 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 11:58:43 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 12:03:56 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 12:04:21 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 12:07:10 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 12:07:35 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 12:07:52 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-04 12:07:53 INFO  LoginPage -main : 25 - Entered email as abc213@mailinator.com
+2019-11-04 12:07:53 INFO  LoginPage -main : 30 - Entered password as abc1234
+2019-11-04 12:07:56 INFO  LoginPage -main : 35 - Clicked on Sign In button
+2019-11-04 12:09:11 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 12:09:36 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 14:45:18 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 14:45:38 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-11-04 14:45:38 INFO  TestDataGenerator -main : 14 - random first name is generated: Mathilde
+2019-11-04 14:45:38 INFO  TestDataGenerator -main : 19 - random last name is generated: Swift
+2019-11-04 14:47:34 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 14:47:55 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-04 14:47:55 INFO  LoginPage -main : 25 - Entered email as abc213@mailinator.com
+2019-11-04 14:47:56 INFO  LoginPage -main : 30 - Entered password as abc1234
+2019-11-04 14:47:58 INFO  LoginPage -main : 35 - Clicked on Sign In button
+2019-11-04 15:16:08 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 15:16:28 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-11-04 15:16:28 INFO  TestDataGenerator -main : 14 - random first name is generated: Madge
+2019-11-04 15:16:28 INFO  TestDataGenerator -main : 19 - random last name is generated: White
+2019-11-04 15:16:50 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 15:17:11 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-04 15:17:12 INFO  LoginPage -main : 25 - Entered email as abc213@mailinator.com
+2019-11-04 15:17:12 INFO  LoginPage -main : 30 - Entered password as abc1234
+2019-11-04 15:17:14 INFO  LoginPage -main : 35 - Clicked on Sign In button
+2019-11-04 15:36:48 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 15:37:13 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 15:38:24 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 15:39:35 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 15:41:07 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 15:43:09 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 15:47:42 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 15:48:52 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 15:49:17 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 15:50:03 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 15:50:29 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 15:51:35 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 15:52:00 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 15:52:51 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 15:53:16 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 15:53:36 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-04 15:53:37 INFO  LoginPage -main : 25 - Entered email as abc213@mailinator.com
+2019-11-04 15:53:37 INFO  LoginPage -main : 30 - Entered password as abc1234
+2019-11-04 15:53:40 INFO  LoginPage -main : 35 - Clicked on Sign In button
+2019-11-04 15:54:04 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 15:54:29 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 15:55:23 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 15:55:48 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 15:56:25 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 15:56:50 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 15:57:09 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-04 15:57:09 INFO  LoginPage -main : 25 - Entered email as abc213@mailinator.com
+2019-11-04 15:57:09 INFO  LoginPage -main : 30 - Entered password as abc1234
+2019-11-04 15:57:12 INFO  LoginPage -main : 35 - Clicked on Sign In button
+2019-11-04 15:59:25 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 15:59:43 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-04 15:59:43 INFO  LoginPage -main : 25 - Entered email as abc213@mailinator.com
+2019-11-04 15:59:44 INFO  LoginPage -main : 30 - Entered password as abc1234
+2019-11-04 15:59:46 INFO  LoginPage -main : 35 - Clicked on Sign In button
+2019-11-04 16:00:21 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 16:01:33 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 16:03:46 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 16:15:31 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 16:17:07 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 16:24:56 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 16:25:15 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-11-04 16:25:16 INFO  TestDataGenerator -main : 14 - random first name is generated: Jaydon
+2019-11-04 16:25:16 INFO  TestDataGenerator -main : 19 - random last name is generated: Schinner
+2019-11-04 16:31:50 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 16:33:05 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 16:35:46 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 16:37:14 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 16:37:56 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 16:38:13 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-11-04 16:38:13 INFO  TestDataGenerator -main : 14 - random first name is generated: Isabelle
+2019-11-04 16:38:13 INFO  TestDataGenerator -main : 19 - random last name is generated: Jerde
+2019-11-04 16:38:36 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 16:45:42 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 16:47:48 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 16:48:08 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-11-04 16:48:08 INFO  TestDataGenerator -main : 14 - random first name is generated: Allan
+2019-11-04 16:48:08 INFO  TestDataGenerator -main : 19 - random last name is generated: Leffler
+2019-11-04 17:21:18 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 17:21:39 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-11-04 17:21:39 INFO  TestDataGenerator -main : 14 - random first name is generated: Khalil
+2019-11-04 17:21:39 INFO  TestDataGenerator -main : 19 - random last name is generated: Okuneva
+2019-11-04 17:23:20 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 17:23:45 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-11-04 17:23:45 INFO  TestDataGenerator -main : 14 - random first name is generated: Alejandrin
+2019-11-04 17:23:45 INFO  TestDataGenerator -main : 19 - random last name is generated: Harvey
+2019-11-04 17:24:44 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 17:25:37 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 17:26:35 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 17:27:25 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 17:27:40 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-11-04 17:27:40 INFO  TestDataGenerator -main : 14 - random first name is generated: Nannie
+2019-11-04 17:27:40 INFO  TestDataGenerator -main : 19 - random last name is generated: Towne
+2019-11-04 17:28:08 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 17:29:39 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 17:30:38 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 17:30:55 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-11-04 17:30:56 INFO  TestDataGenerator -main : 14 - random first name is generated: Darius
+2019-11-04 17:30:56 INFO  TestDataGenerator -main : 19 - random last name is generated: McKenzie
+2019-11-04 17:33:55 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 17:34:15 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-11-04 17:34:16 INFO  TestDataGenerator -main : 14 - random first name is generated: Maxie
+2019-11-04 17:34:16 INFO  TestDataGenerator -main : 19 - random last name is generated: Cassin
+2019-11-04 17:35:15 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 17:35:51 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 17:36:30 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 17:36:51 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-11-04 17:36:52 INFO  TestDataGenerator -main : 14 - random first name is generated: Virginia
+2019-11-04 17:36:52 INFO  TestDataGenerator -main : 19 - random last name is generated: Orn
+2019-11-04 17:48:12 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 17:48:32 INFO  HomePage -main : 29 - Clicked on Contact Us Link
+2019-11-04 17:48:32 INFO  TestDataGenerator -main : 14 - random first name is generated: Hector
+2019-11-04 17:48:32 INFO  TestDataGenerator -main : 19 - random last name is generated: Bins
+2019-11-04 18:39:39 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 18:39:49 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-04 18:39:51 INFO  LoginPage -main : 35 - Clicked on Sign In button
+2019-11-04 18:43:44 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 18:43:55 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-04 18:43:59 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-04 18:44:00 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-04 18:46:19 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 18:46:30 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-04 18:46:34 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-04 18:46:35 INFO  LoginPage -main : 38 - Clicked on Sign In button
+2019-11-04 18:47:16 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 18:47:27 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-04 18:47:31 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-04 18:47:32 INFO  LoginPage -main : 38 - Clicked on Sign In button
+2019-11-04 18:48:37 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 18:48:48 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-04 18:48:52 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-04 18:48:53 INFO  LoginPage -main : 38 - Clicked on Sign In button
+2019-11-04 18:54:47 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 18:55:00 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-04 18:55:04 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-04 18:55:06 INFO  LoginPage -main : 38 - Clicked on Sign In button
+2019-11-04 19:13:17 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 19:13:29 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-04 19:13:33 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-04 19:13:35 INFO  LoginPage -main : 38 - Clicked on Sign In button
+2019-11-04 19:42:41 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 19:42:53 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-04 19:42:57 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-04 19:42:58 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-04 19:43:22 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 19:43:34 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-04 19:43:35 INFO  LoginPage -main : 32 - Entered password as ivalid
+2019-11-04 19:43:35 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-04 19:43:39 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-04 19:43:41 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-04 19:44:09 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 19:44:20 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-04 19:44:21 INFO  LoginPage -main : 27 - Entered email as ivalid
+2019-11-04 19:44:21 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-04 19:44:25 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-04 19:44:27 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-04 20:01:03 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 20:01:15 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-04 20:01:16 INFO  LoginPage -main : 27 - Entered email as ivalid
+2019-11-04 20:01:16 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-04 20:01:20 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-04 20:01:22 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-04 20:28:06 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 20:28:39 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 20:28:51 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-04 20:28:51 INFO  LoginPage -main : 27 - Entered email as abc213@mailinator.com
+2019-11-04 20:28:51 INFO  LoginPage -main : 32 - Entered password as abc1234
+2019-11-04 20:28:53 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-04 20:29:00 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 20:29:10 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-04 20:29:11 INFO  LoginPage -main : 27 - Entered email as ivalid
+2019-11-04 20:29:11 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-04 20:29:15 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-04 20:29:17 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-04 20:32:15 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 20:32:27 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-04 20:32:27 INFO  LoginPage -main : 27 - Entered email as abc213@mailinator.com
+2019-11-04 20:32:27 INFO  LoginPage -main : 32 - Entered password as abc1234
+2019-11-04 20:32:29 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-04 20:32:35 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 20:32:48 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-04 20:32:48 INFO  LoginPage -main : 27 - Entered email as ivalid
+2019-11-04 20:32:48 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-04 20:32:52 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-04 20:32:54 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-04 20:34:01 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 20:34:14 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-04 20:34:14 INFO  LoginPage -main : 27 - Entered email as abc213@mailinator.com
+2019-11-04 20:34:14 INFO  LoginPage -main : 32 - Entered password as abc1234
+2019-11-04 20:34:16 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-04 20:34:22 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 20:34:34 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-04 20:34:35 INFO  LoginPage -main : 27 - Entered email as ivalid
+2019-11-04 20:34:35 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-04 20:34:39 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-04 20:34:40 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-04 20:35:59 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 20:36:14 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-04 20:36:14 INFO  LoginPage -main : 27 - Entered email as abc213@mailinator.com
+2019-11-04 20:36:14 INFO  LoginPage -main : 32 - Entered password as abc1234
+2019-11-04 20:36:18 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-04 20:36:24 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 20:36:37 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-04 20:36:37 INFO  LoginPage -main : 27 - Entered email as ivalid
+2019-11-04 20:36:37 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-04 20:36:41 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-04 20:36:44 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-04 20:58:00 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 20:58:11 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-04 20:58:12 INFO  LoginPage -main : 27 - Entered email as abc213@mailinator.com
+2019-11-04 20:58:12 INFO  LoginPage -main : 32 - Entered password as abc1234
+2019-11-04 20:58:13 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-04 20:58:19 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 20:58:30 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-04 20:58:30 INFO  LoginPage -main : 27 - Entered email as ivalid
+2019-11-04 20:58:31 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-04 20:58:35 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-04 20:58:36 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-04 21:00:53 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 21:01:04 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-04 21:01:05 INFO  LoginPage -main : 27 - Entered email as abc213@mailinator.com
+2019-11-04 21:01:05 INFO  LoginPage -main : 32 - Entered password as abc1234
+2019-11-04 21:01:07 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-04 21:01:13 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 21:01:24 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-04 21:01:25 INFO  LoginPage -main : 27 - Entered email as ivalid
+2019-11-04 21:01:25 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-04 21:01:29 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-04 21:01:31 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-04 21:04:36 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 21:04:46 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-04 21:04:47 INFO  LoginPage -main : 27 - Entered email as abc213@mailinator.com
+2019-11-04 21:04:47 INFO  LoginPage -main : 32 - Entered password as abc1234
+2019-11-04 21:04:49 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-04 21:04:55 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 21:05:06 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-04 21:05:07 INFO  LoginPage -main : 27 - Entered email as ivalid
+2019-11-04 21:05:07 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-04 21:05:11 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-04 21:05:13 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-04 21:07:33 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 21:07:44 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-04 21:07:45 INFO  LoginPage -main : 27 - Entered email as ivalid
+2019-11-04 21:07:45 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-04 21:07:49 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-04 21:07:50 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-04 21:08:28 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-04 21:08:39 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-04 21:08:40 INFO  LoginPage -main : 27 - Entered email as ivalid
+2019-11-04 21:08:40 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-04 21:08:44 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-04 21:08:46 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-11 18:45:05 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-11 18:48:14 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-11 18:50:14 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-11 18:50:35 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-11 19:12:29 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-11 19:43:28 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-11 19:53:31 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-11 19:53:43 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-11 19:53:44 INFO  LoginPage -main : 27 - Entered email as ivalid
+2019-11-11 19:53:44 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-11 19:53:48 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-11 19:53:49 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-11 19:53:55 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-11 19:53:55 INFO  LoginPage -main : 27 - Entered email as ivalid
+2019-11-11 19:53:55 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-11 19:53:59 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-11 19:54:01 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-11 19:54:06 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-11 19:54:06 INFO  LoginPage -main : 27 - Entered email as ivalid
+2019-11-11 19:54:06 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-11 19:54:10 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-11 19:54:53 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-11 19:55:09 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-11 19:55:10 INFO  LoginPage -main : 27 - Entered email as invalid
+2019-11-11 19:55:10 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-11 19:55:14 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-11 19:55:16 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-11 19:55:21 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-11 19:55:22 INFO  LoginPage -main : 27 - Entered email as abc213@mailinator.com
+2019-11-11 19:55:22 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-11 19:55:26 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-11 19:55:29 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-11 19:55:36 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-11 19:55:36 INFO  LoginPage -main : 27 - Entered email as invalid
+2019-11-11 19:55:36 INFO  LoginPage -main : 32 - Entered password as abc1234
+2019-11-11 19:55:40 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-11 19:55:43 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-11 19:58:16 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-11 19:58:30 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-11 19:58:31 INFO  LoginPage -main : 27 - Entered email as invalid
+2019-11-11 19:58:31 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-11 19:58:35 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-11 19:58:37 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-11 19:58:42 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-11 19:58:42 INFO  LoginPage -main : 27 - Entered email as abc213@mailinator.com
+2019-11-11 19:58:42 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-11 19:58:46 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-11 19:58:48 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-11 19:58:54 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-11 19:58:54 INFO  LoginPage -main : 27 - Entered email as invalid
+2019-11-11 19:58:54 INFO  LoginPage -main : 32 - Entered password as abc1234
+2019-11-11 19:58:58 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-11 19:59:01 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-11 20:00:03 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-11 20:00:48 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-11 20:02:29 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-11 20:02:40 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-11 20:02:41 INFO  LoginPage -main : 27 - Entered email as invalid
+2019-11-11 20:02:41 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-11 20:02:45 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-11 20:02:47 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-11 20:02:50 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-11 20:03:11 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-11 20:03:11 INFO  LoginPage -main : 27 - Entered email as invalid
+2019-11-11 20:03:12 INFO  LoginPage -main : 32 - Entered password as abc1234
+2019-11-11 20:03:16 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-11 20:03:17 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-11 20:04:11 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-11 20:04:22 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-11 20:04:23 INFO  LoginPage -main : 27 - Entered email as invalid
+2019-11-11 20:04:23 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-11 20:04:27 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-11 20:04:28 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-11 20:04:33 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-11 20:04:33 INFO  LoginPage -main : 27 - Entered email as abc213@mailinator.com
+2019-11-11 20:04:33 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-11 20:04:37 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-11 20:04:39 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-11 20:04:44 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-11 20:04:44 INFO  LoginPage -main : 27 - Entered email as invalid
+2019-11-11 20:04:44 INFO  LoginPage -main : 32 - Entered password as abc1234
+2019-11-11 20:04:48 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-11 20:04:50 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-11 20:05:59 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-11 20:06:12 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-11 20:06:13 INFO  LoginPage -main : 27 - Entered email as invalid
+2019-11-11 20:06:13 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-11 20:06:17 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-11 20:06:18 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-11 20:06:23 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-11 20:06:24 INFO  LoginPage -main : 27 - Entered email as abc213@mailinator.com
+2019-11-11 20:06:24 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-11 20:06:28 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-11 20:06:30 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-11 20:06:35 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-11 20:06:35 INFO  LoginPage -main : 27 - Entered email as invalid
+2019-11-11 20:06:35 INFO  LoginPage -main : 32 - Entered password as abc1234
+2019-11-11 20:06:39 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-11 20:06:40 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-11 20:40:16 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-11 20:40:29 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-11 20:40:30 INFO  LoginPage -main : 27 - Entered email as invalid
+2019-11-11 20:40:31 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-11 20:40:35 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-11 20:40:38 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-11 20:40:46 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-11 20:40:47 INFO  LoginPage -main : 27 - Entered email as abc213@mailinator.com
+2019-11-11 20:40:47 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-11 20:40:51 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-11 20:40:53 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-11 20:40:58 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-11 20:40:58 INFO  LoginPage -main : 27 - Entered email as invalid
+2019-11-11 20:40:59 INFO  LoginPage -main : 32 - Entered password as abc1234
+2019-11-11 20:41:03 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-11 20:41:04 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-11 21:06:10 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-11 21:06:22 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-11 21:06:23 INFO  LoginPage -main : 27 - Entered email as abc213@mailinator.com
+2019-11-11 21:06:23 INFO  LoginPage -main : 32 - Entered password as abc1234
+2019-11-11 21:06:25 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-11 21:06:29 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-11 21:06:30 INFO  LoginPage -main : 27 - Entered email as ivalid
+2019-11-11 21:06:30 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-11 21:06:34 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-11 21:06:35 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-11 21:06:40 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-11 21:06:40 INFO  LoginPage -main : 27 - Entered email as invalid
+2019-11-11 21:06:40 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-11 21:06:44 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-11 21:06:46 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-11 21:06:51 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-11 21:06:51 INFO  LoginPage -main : 27 - Entered email as abc213@mailinator.com
+2019-11-11 21:06:51 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-11 21:06:55 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-11 21:06:57 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-11 21:07:09 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-11 21:07:09 INFO  LoginPage -main : 27 - Entered email as invalid
+2019-11-11 21:07:09 INFO  LoginPage -main : 32 - Entered password as abc1234
+2019-11-11 21:07:13 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-11 21:07:14 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-11 21:10:08 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-11 21:10:21 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-11 21:10:22 INFO  LoginPage -main : 27 - Entered email as invalid
+2019-11-11 21:10:22 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-11 21:10:26 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-11 21:10:28 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-11 21:10:28 INFO  LoginPage -main : 27 - Entered email as abc213@mailinator.com
+2019-11-11 21:10:28 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-11 21:10:32 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-11 21:10:34 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-11 21:10:35 INFO  LoginPage -main : 27 - Entered email as invalid
+2019-11-11 21:10:35 INFO  LoginPage -main : 32 - Entered password as abc1234
+2019-11-11 21:10:39 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-11 21:10:41 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-11 21:50:01 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-11 21:50:15 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-11 21:50:15 INFO  LoginPage -main : 27 - Entered email as invalid
+2019-11-11 21:50:15 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-11 21:50:19 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-11 21:50:21 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-11 21:50:21 INFO  LoginPage -main : 27 - Entered email as abc213@mailinator.com
+2019-11-11 21:50:21 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-11 21:50:25 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-11 21:50:28 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-11 21:50:28 INFO  LoginPage -main : 27 - Entered email as invalid
+2019-11-11 21:50:28 INFO  LoginPage -main : 32 - Entered password as abc1234
+2019-11-11 21:50:32 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-11 21:50:35 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-11 22:00:00 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-11 22:00:14 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-11 22:00:14 INFO  LoginPage -main : 27 - Entered email as invalid
+2019-11-11 22:00:15 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-11 22:00:19 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-11 22:00:20 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-11 22:00:21 INFO  LoginPage -main : 27 - Entered email as abc213@mailinator.com
+2019-11-11 22:00:21 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-11 22:00:25 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-11 22:00:27 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-11 22:00:27 INFO  LoginPage -main : 27 - Entered email as invalid
+2019-11-11 22:00:28 INFO  LoginPage -main : 32 - Entered password as abc1234
+2019-11-11 22:00:32 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-11 22:00:34 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-11 22:01:06 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-11 22:01:19 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-11 22:01:19 INFO  LoginPage -main : 27 - Entered email as invalid
+2019-11-11 22:01:19 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-11 22:01:23 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-11 22:01:25 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-11 22:58:49 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-11 22:59:03 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-11 22:59:03 INFO  LoginPage -main : 27 - Entered email as invalid
+2019-11-11 22:59:03 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-11 22:59:07 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-11 22:59:08 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-11 22:59:09 INFO  LoginPage -main : 27 - Entered email as abc213@mailinator.com
+2019-11-11 22:59:09 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-11 22:59:13 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-11 22:59:15 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-11 22:59:15 INFO  LoginPage -main : 27 - Entered email as invalid
+2019-11-11 22:59:16 INFO  LoginPage -main : 32 - Entered password as abc1234
+2019-11-11 22:59:20 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-11 22:59:22 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-11 22:59:52 INFO  DriverFarctory -main : 53 - Driver type set to chrome
+2019-11-11 23:00:04 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-11 23:00:05 INFO  LoginPage -main : 27 - Entered email as invalid
+2019-11-11 23:00:05 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-11 23:00:09 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-11 23:00:11 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-11 23:00:11 INFO  LoginPage -main : 27 - Entered email as abc213@mailinator.com
+2019-11-11 23:00:11 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-11 23:00:15 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-11 23:00:18 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-11 23:00:18 INFO  LoginPage -main : 27 - Entered email as invalid
+2019-11-11 23:00:18 INFO  LoginPage -main : 32 - Entered password as abc1234
+2019-11-11 23:00:22 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-11 23:00:25 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-14 23:46:34 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-14 23:46:50 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-14 23:46:52 INFO  LoginPage -main : 27 - Entered email as invalid
+2019-11-14 23:46:52 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-14 23:46:56 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-14 23:46:59 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-14 23:46:59 INFO  LoginPage -main : 27 - Entered email as abc213@mailinator.com
+2019-11-14 23:46:59 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-15 15:27:04 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 15:40:11 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 15:43:06 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 15:43:58 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 15:44:43 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 15:52:04 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 15:56:38 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 15:57:06 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-15 15:57:06 INFO  LoginPage -main : 27 - Entered email as abc213@mailinator.com
+2019-11-15 15:57:06 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-15 15:57:10 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-15 15:57:15 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-15 15:57:23 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-15 15:57:23 INFO  LoginPage -main : 27 - Entered email as invalid
+2019-11-15 15:57:23 INFO  LoginPage -main : 32 - Entered password as abc1234
+2019-11-15 15:57:27 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-15 15:57:29 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-15 15:58:36 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 15:58:54 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-15 15:58:54 INFO  LoginPage -main : 27 - Entered email as invalid
+2019-11-15 15:58:55 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-15 15:58:59 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-15 15:59:00 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-15 15:59:05 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-15 15:59:06 INFO  LoginPage -main : 27 - Entered email as abc213@mailinator.com
+2019-11-15 15:59:06 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-15 15:59:10 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-15 15:59:14 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-15 15:59:23 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-15 15:59:23 INFO  LoginPage -main : 27 - Entered email as invalid
+2019-11-15 15:59:23 INFO  LoginPage -main : 32 - Entered password as abc1234
+2019-11-15 15:59:27 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-15 15:59:30 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-15 16:00:27 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 16:00:46 INFO  HomePage -main : 24 - Clicked on Sign In Link
+2019-11-15 16:00:46 INFO  LoginPage -main : 27 - Entered email as invalid
+2019-11-15 16:00:46 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-15 16:00:50 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-15 16:00:52 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-15 16:00:52 INFO  LoginPage -main : 27 - Entered email as abc213@mailinator.com
+2019-11-15 16:00:52 INFO  LoginPage -main : 32 - Entered password as invalid
+2019-11-15 16:00:56 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-15 16:00:59 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-15 16:00:59 INFO  LoginPage -main : 27 - Entered email as invalid
+2019-11-15 16:00:59 INFO  LoginPage -main : 32 - Entered password as abc1234
+2019-11-15 16:01:03 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-15 16:01:05 INFO  LoginPage -main : 37 - Clicked on Sign In button
+2019-11-15 17:29:05 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 17:42:37 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 17:46:25 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 17:47:02 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 17:48:17 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 17:50:41 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 18:49:31 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 18:49:43 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-15 18:49:43 INFO  MackarooFormPage -main : 26 - Entered ID
+2019-11-15 19:08:55 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 19:09:08 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-15 19:09:08 INFO  MackarooFormPage -main : 26 - Entered ID
+2019-11-15 19:10:03 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 19:10:16 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-15 19:10:16 INFO  MackarooFormPage -main : 26 - Entered ID
+2019-11-15 19:11:15 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 19:11:28 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-15 19:11:28 INFO  MackarooFormPage -main : 27 - Entered ID
+2019-11-15 19:11:32 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 19:31:11 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 19:31:26 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-15 19:31:26 INFO  MackarooFormPage -main : 30 - Entered ID
+2019-11-15 19:31:30 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 19:31:30 INFO  MackarooFormPage -main : 39 - Entered firstname James
+2019-11-15 19:38:43 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 19:38:57 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-15 19:38:58 INFO  MackarooFormPage -main : 30 - Entered ID
+2019-11-15 19:39:02 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 19:39:02 INFO  MackarooFormPage -main : 39 - Entered firstname James
+2019-11-15 19:40:22 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 19:40:35 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-15 19:40:36 INFO  MackarooFormPage -main : 30 - Entered ID
+2019-11-15 19:40:40 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 19:40:40 INFO  MackarooFormPage -main : 39 - Entered firstname James
+2019-11-15 19:40:42 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-11-15 19:40:42 INFO  MackarooFormPage -main : 46 - Entered firstname Brown
+2019-11-15 19:42:00 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 19:42:13 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-15 19:42:13 INFO  MackarooFormPage -main : 30 - Entered ID
+2019-11-15 19:42:17 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 19:42:17 INFO  MackarooFormPage -main : 39 - Entered firstname James
+2019-11-15 19:42:20 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 19:42:21 INFO  MackarooFormPage -main : 46 - Entered firstname Brown
+2019-11-15 19:44:05 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 19:44:18 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-15 19:44:18 INFO  MackarooFormPage -main : 30 - Entered ID
+2019-11-15 19:44:22 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 19:44:22 INFO  MackarooFormPage -main : 39 - Entered firstname James
+2019-11-15 19:44:25 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 19:44:26 INFO  MackarooFormPage -main : 46 - Entered firstname Brown
+2019-11-15 19:56:21 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 19:56:35 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-15 19:56:35 INFO  MackarooFormPage -main : 30 - Entered ID
+2019-11-15 19:56:39 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 19:56:39 INFO  MackarooFormPage -main : 39 - Entered firstname James
+2019-11-15 19:56:43 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 19:56:43 INFO  MackarooFormPage -main : 46 - Entered firstname Brown
+2019-11-15 19:57:35 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 19:57:47 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-15 19:57:48 INFO  MackarooFormPage -main : 30 - Entered ID
+2019-11-15 19:57:52 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 19:57:52 INFO  MackarooFormPage -main : 39 - Entered firstname James
+2019-11-15 19:57:55 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 19:57:56 INFO  MackarooFormPage -main : 46 - Entered firstname Brown
+2019-11-15 20:04:28 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 20:04:47 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-15 20:04:47 INFO  MackarooFormPage -main : 31 - Entered ID
+2019-11-15 20:04:51 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 20:04:52 INFO  MackarooFormPage -main : 40 - Entered firstname James
+2019-11-15 20:04:55 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 20:04:55 INFO  MackarooFormPage -main : 47 - Entered firstname Brown
+2019-11-15 20:05:41 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 20:05:54 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-15 20:05:54 INFO  MackarooFormPage -main : 31 - Entered ID
+2019-11-15 20:05:58 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 20:05:59 INFO  MackarooFormPage -main : 40 - Entered firstname James
+2019-11-15 20:06:02 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 20:06:02 INFO  MackarooFormPage -main : 47 - Entered firstname Brown
+2019-11-15 20:12:49 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 20:13:03 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-15 20:13:03 INFO  MackarooFormPage -main : 31 - Entered ID
+2019-11-15 20:13:07 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 20:13:07 INFO  MackarooFormPage -main : 40 - Entered firstname James
+2019-11-15 20:14:05 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 20:14:19 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-15 20:14:19 INFO  MackarooFormPage -main : 31 - Entered ID
+2019-11-15 20:14:23 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 20:14:23 INFO  MackarooFormPage -main : 40 - Entered firstname James
+2019-11-15 20:15:13 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 20:15:26 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-15 20:15:27 INFO  MackarooFormPage -main : 31 - Entered ID
+2019-11-15 20:15:31 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 20:15:31 INFO  MackarooFormPage -main : 40 - Entered firstname James
+2019-11-15 20:28:00 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 20:28:13 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-15 20:28:14 INFO  MackarooFormPage -main : 31 - Entered ID
+2019-11-15 20:28:18 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 20:28:18 INFO  MackarooFormPage -main : 40 - Entered firstname James
+2019-11-15 20:29:19 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 20:29:33 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-15 20:29:33 INFO  MackarooFormPage -main : 31 - Entered ID
+2019-11-15 20:29:37 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 20:29:37 INFO  MackarooFormPage -main : 40 - Entered firstname James
+2019-11-15 20:29:40 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 20:29:41 INFO  MackarooFormPage -main : 47 - Entered firstname Brown
+2019-11-15 20:31:03 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 20:31:17 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-15 20:31:17 INFO  MackarooFormPage -main : 31 - Entered ID
+2019-11-15 20:31:21 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 20:31:22 INFO  MackarooFormPage -main : 39 - Entered firstname James
+2019-11-15 20:31:25 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 20:31:25 INFO  MackarooFormPage -main : 46 - Entered lastname Brown
+2019-11-15 20:33:11 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 20:33:25 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-15 20:33:25 INFO  MackarooFormPage -main : 31 - Entered ID
+2019-11-15 20:33:29 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 20:33:30 INFO  MackarooFormPage -main : 39 - Entered firstname James
+2019-11-15 20:33:33 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 20:33:33 INFO  MackarooFormPage -main : 46 - Entered lastname Brown
+2019-11-15 20:33:36 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 20:36:11 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 20:36:24 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-15 20:36:25 INFO  MackarooFormPage -main : 31 - Entered ID
+2019-11-15 20:36:28 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 20:36:29 INFO  MackarooFormPage -main : 39 - Entered firstname James
+2019-11-15 20:36:32 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 20:36:32 INFO  MackarooFormPage -main : 46 - Entered lastname Brown
+2019-11-15 20:36:35 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 20:37:16 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 20:37:30 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-15 20:37:30 INFO  MackarooFormPage -main : 31 - Entered ID
+2019-11-15 20:37:34 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 20:37:35 INFO  MackarooFormPage -main : 39 - Entered firstname James
+2019-11-15 21:06:48 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 21:07:01 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-15 21:07:02 INFO  MackarooFormPage -main : 31 - Entered ID
+2019-11-15 21:07:06 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 21:07:06 INFO  MackarooFormPage -main : 39 - Entered firstname James
+2019-11-15 21:07:49 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 21:08:02 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-15 21:08:02 INFO  MackarooFormPage -main : 31 - Entered ID
+2019-11-15 21:08:06 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 21:08:06 INFO  MackarooFormPage -main : 39 - Entered firstname James
+2019-11-15 21:09:11 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 21:09:24 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-15 21:09:24 INFO  MackarooFormPage -main : 31 - Entered ID
+2019-11-15 21:09:29 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 21:09:29 INFO  MackarooFormPage -main : 39 - Entered firstname James
+2019-11-15 21:11:28 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 21:11:42 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-15 21:11:43 INFO  MackarooFormPage -main : 31 - Entered ID
+2019-11-15 21:11:47 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 21:11:47 INFO  MackarooFormPage -main : 39 - Entered firstname James
+2019-11-15 21:12:22 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 21:12:36 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-15 21:12:36 INFO  MackarooFormPage -main : 31 - Entered ID
+2019-11-15 21:12:40 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 21:12:40 INFO  MackarooFormPage -main : 39 - Entered firstname James
+2019-11-15 21:16:54 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 21:17:07 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-15 21:17:08 INFO  MackarooFormPage -main : 31 - Entered ID
+2019-11-15 21:17:12 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 21:17:12 INFO  MackarooFormPage -main : 39 - Entered firstname James
+2019-11-15 21:18:59 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 21:19:13 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-15 21:19:13 INFO  MackarooFormPage -main : 31 - Entered ID
+2019-11-15 21:19:17 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 21:19:17 INFO  MackarooFormPage -main : 39 - Entered firstname James
+2019-11-15 21:19:21 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 21:19:21 INFO  MackarooFormPage -main : 47 - Entered lastname Brown
+2019-11-15 21:19:24 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 21:19:57 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 21:20:09 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-15 21:20:10 INFO  MackarooFormPage -main : 31 - Entered ID
+2019-11-15 21:20:14 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 21:20:14 INFO  MackarooFormPage -main : 39 - Entered firstname James
+2019-11-15 21:21:07 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 21:21:19 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-15 21:21:20 INFO  MackarooFormPage -main : 31 - Entered ID
+2019-11-15 21:21:24 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 21:21:24 INFO  MackarooFormPage -main : 39 - Entered firstname James
+2019-11-15 21:21:28 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 21:21:28 INFO  MackarooFormPage -main : 47 - Entered lastname Brown
+2019-11-15 21:21:31 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 21:31:04 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 21:31:39 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 21:31:53 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-15 21:31:53 INFO  MackarooFormPage -main : 31 - Entered ID
+2019-11-15 21:31:57 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 21:31:58 INFO  MackarooFormPage -main : 39 - Entered firstname James
+2019-11-15 21:32:01 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 21:32:02 INFO  MackarooFormPage -main : 47 - Entered lastname Brown
+2019-11-15 21:32:51 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 21:33:05 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-15 21:33:06 INFO  MackarooFormPage -main : 31 - Entered ID
+2019-11-15 21:33:10 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 21:33:10 INFO  MackarooFormPage -main : 39 - Entered firstname James
+2019-11-15 21:33:14 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 21:33:14 INFO  MackarooFormPage -main : 47 - Entered lastname Brown
+2019-11-15 21:33:18 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 21:33:18 INFO  MackarooFormPage -main : 55 - Entered Email: abc@gmail.com
+2019-11-15 21:33:54 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 21:34:08 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-15 21:34:08 INFO  MackarooFormPage -main : 31 - Entered ID
+2019-11-15 21:34:12 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 21:34:13 INFO  MackarooFormPage -main : 39 - Entered firstname James
+2019-11-15 21:34:16 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 21:34:17 INFO  MackarooFormPage -main : 47 - Entered lastname Brown
+2019-11-15 21:34:21 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 21:34:21 INFO  MackarooFormPage -main : 55 - Entered Email: abc@gmail.com
+2019-11-15 21:35:08 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 21:35:21 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-15 21:35:22 INFO  MackarooFormPage -main : 31 - Entered ID
+2019-11-15 21:35:26 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 21:35:26 INFO  MackarooFormPage -main : 39 - Entered firstname James
+2019-11-15 21:35:30 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 21:35:30 INFO  MackarooFormPage -main : 47 - Entered lastname Brown
+2019-11-15 21:35:34 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 21:35:34 INFO  MackarooFormPage -main : 55 - Entered Email: abc@gmail.com
+2019-11-15 21:35:58 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 21:36:12 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-15 21:36:12 INFO  MackarooFormPage -main : 31 - Entered ID
+2019-11-15 21:36:16 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 21:36:16 INFO  MackarooFormPage -main : 39 - Entered firstname James
+2019-11-15 21:36:20 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 21:36:21 INFO  MackarooFormPage -main : 47 - Entered lastname Brown
+2019-11-15 21:36:24 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 21:36:25 INFO  MackarooFormPage -main : 55 - Entered Email: abc@gmail.com
+2019-11-15 21:43:08 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 21:43:21 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-15 21:43:22 INFO  MackarooFormPage -main : 31 - Entered ID
+2019-11-15 21:43:25 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 21:43:26 INFO  MackarooFormPage -main : 39 - Entered firstname James
+2019-11-15 21:43:30 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 21:43:30 INFO  MackarooFormPage -main : 47 - Entered lastname Brown
+2019-11-15 21:43:34 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 21:43:34 INFO  MackarooFormPage -main : 55 - Entered Email: abc@gmail.com
+2019-11-15 21:47:52 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 21:48:05 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-15 21:48:06 INFO  MackarooFormPage -main : 31 - Entered ID
+2019-11-15 21:48:10 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 21:48:10 INFO  MackarooFormPage -main : 39 - Entered firstname James
+2019-11-15 21:48:14 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 21:48:14 INFO  MackarooFormPage -main : 47 - Entered lastname Brown
+2019-11-15 21:48:18 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 21:48:18 INFO  MackarooFormPage -main : 55 - Entered Email: abc@gmail.com
+2019-11-15 21:48:22 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 21:48:44 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 21:49:17 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 21:49:31 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-15 21:49:31 INFO  MackarooFormPage -main : 31 - Entered ID
+2019-11-15 21:49:35 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 21:49:35 INFO  MackarooFormPage -main : 39 - Entered firstname James
+2019-11-15 21:49:39 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 21:49:39 INFO  MackarooFormPage -main : 47 - Entered lastname Brown
+2019-11-15 21:49:43 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 21:49:44 INFO  MackarooFormPage -main : 55 - Entered Email: abc@gmail.com
+2019-11-15 21:49:47 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 21:50:24 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 21:50:38 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-15 21:50:38 INFO  MackarooFormPage -main : 31 - Entered ID
+2019-11-15 21:50:42 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 21:50:42 INFO  MackarooFormPage -main : 39 - Entered firstname James
+2019-11-15 21:50:46 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 21:50:46 INFO  MackarooFormPage -main : 47 - Entered lastname Brown
+2019-11-15 21:50:50 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 21:50:51 INFO  MackarooFormPage -main : 55 - Entered Email: abc@gmail.com
+2019-11-15 21:50:55 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 22:42:59 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 22:43:13 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-15 22:43:13 INFO  MackarooFormPage -main : 31 - Entered ID
+2019-11-15 22:43:17 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 22:43:18 INFO  MackarooFormPage -main : 39 - Entered firstname James
+2019-11-15 22:43:22 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 22:43:22 INFO  MackarooFormPage -main : 47 - Entered lastname Brown
+2019-11-15 22:43:26 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 22:43:26 INFO  MackarooFormPage -main : 55 - Entered Email: abc@gmail.com
+2019-11-15 23:10:08 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 23:10:22 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-15 23:10:23 INFO  MackarooFormPage -main : 31 - Entered ID
+2019-11-15 23:10:27 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 23:10:27 INFO  MackarooFormPage -main : 39 - Entered firstname James
+2019-11-15 23:10:31 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 23:10:31 INFO  MackarooFormPage -main : 47 - Entered lastname Brown
+2019-11-15 23:10:35 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 23:10:35 INFO  MackarooFormPage -main : 55 - Entered Email: abc@gmail.com
+2019-11-15 23:11:25 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 23:11:38 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-15 23:11:39 INFO  MackarooFormPage -main : 31 - Entered ID
+2019-11-15 23:11:43 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 23:11:43 INFO  MackarooFormPage -main : 39 - Entered firstname James
+2019-11-15 23:11:47 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 23:11:47 INFO  MackarooFormPage -main : 47 - Entered lastname Brown
+2019-11-15 23:11:51 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 23:11:52 INFO  MackarooFormPage -main : 55 - Entered Email: abc@gmail.com
+2019-11-15 23:11:55 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 23:15:38 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-15 23:15:51 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-15 23:15:51 INFO  MackarooFormPage -main : 31 - Entered ID
+2019-11-15 23:15:55 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 23:15:55 INFO  MackarooFormPage -main : 39 - Entered firstname James
+2019-11-15 23:15:59 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 23:15:59 INFO  MackarooFormPage -main : 47 - Entered lastname Brown
+2019-11-15 23:16:03 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-15 23:16:04 INFO  MackarooFormPage -main : 55 - Entered Email: abc@gmail.com
+2019-11-15 23:16:08 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:08:09 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-16 00:08:23 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-16 00:08:24 INFO  MackarooFormPage -main : 33 - Entered ID
+2019-11-16 00:08:28 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:08:28 INFO  MackarooFormPage -main : 41 - Entered firstname James
+2019-11-16 00:08:32 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:08:32 INFO  MackarooFormPage -main : 49 - Entered lastname Brown
+2019-11-16 00:08:36 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:08:36 INFO  MackarooFormPage -main : 57 - Entered Email: abc@gmail.com
+2019-11-16 00:08:40 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:09:30 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-16 00:09:43 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-16 00:09:43 INFO  MackarooFormPage -main : 33 - Entered ID
+2019-11-16 00:09:47 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:09:47 INFO  MackarooFormPage -main : 41 - Entered firstname James
+2019-11-16 00:09:51 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:09:52 INFO  MackarooFormPage -main : 49 - Entered lastname Brown
+2019-11-16 00:09:56 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:09:56 INFO  MackarooFormPage -main : 57 - Entered Email: abc@gmail.com
+2019-11-16 00:10:00 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:10:47 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-16 00:11:00 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-16 00:11:00 INFO  MackarooFormPage -main : 33 - Entered ID
+2019-11-16 00:11:04 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:11:04 INFO  MackarooFormPage -main : 41 - Entered firstname James
+2019-11-16 00:11:08 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:11:09 INFO  MackarooFormPage -main : 49 - Entered lastname Brown
+2019-11-16 00:11:12 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:11:13 INFO  MackarooFormPage -main : 57 - Entered Email: abc@gmail.com
+2019-11-16 00:11:17 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:11:21 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:18:17 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-16 00:18:30 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-16 00:18:30 INFO  MackarooFormPage -main : 35 - Entered ID
+2019-11-16 00:18:34 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:18:34 INFO  MackarooFormPage -main : 43 - Entered firstname James
+2019-11-16 00:18:38 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:18:39 INFO  MackarooFormPage -main : 51 - Entered lastname Brown
+2019-11-16 00:18:42 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:18:43 INFO  MackarooFormPage -main : 59 - Entered Email: abc@gmail.com
+2019-11-16 00:18:47 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:18:51 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:19:59 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-16 00:20:11 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-16 00:20:12 INFO  MackarooFormPage -main : 35 - Entered ID
+2019-11-16 00:20:15 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:20:16 INFO  MackarooFormPage -main : 43 - Entered firstname James
+2019-11-16 00:20:20 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:20:20 INFO  MackarooFormPage -main : 51 - Entered lastname Brown
+2019-11-16 00:20:24 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:20:24 INFO  MackarooFormPage -main : 59 - Entered Email: abc@gmail.com
+2019-11-16 00:20:28 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:20:32 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:20:36 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:30:56 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-16 00:31:36 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-16 00:33:27 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-16 00:33:40 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-16 00:34:29 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-16 00:34:42 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-16 00:34:42 INFO  MackarooFormPage -main : 38 - Entered ID
+2019-11-16 00:34:46 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:34:46 INFO  MackarooFormPage -main : 46 - Entered firstname James
+2019-11-16 00:34:50 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:34:50 INFO  MackarooFormPage -main : 54 - Entered lastname Brown
+2019-11-16 00:34:54 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:34:55 INFO  MackarooFormPage -main : 62 - Entered Email: abc@gmail.com
+2019-11-16 00:34:59 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:35:03 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:35:07 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:35:09 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-11-16 00:35:11 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-11-16 00:38:29 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-16 00:38:42 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-16 00:38:42 INFO  MackarooFormPage -main : 38 - Entered ID
+2019-11-16 00:38:46 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:38:46 INFO  MackarooFormPage -main : 46 - Entered firstname James
+2019-11-16 00:38:50 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:38:50 INFO  MackarooFormPage -main : 54 - Entered lastname Brown
+2019-11-16 00:38:54 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:38:55 INFO  MackarooFormPage -main : 62 - Entered Email: abc@gmail.com
+2019-11-16 00:38:59 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:39:03 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:39:07 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:39:09 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-11-16 00:39:11 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-11-16 00:39:57 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-16 00:40:10 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-16 00:40:10 INFO  MackarooFormPage -main : 38 - Entered ID
+2019-11-16 00:40:14 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:40:14 INFO  MackarooFormPage -main : 46 - Entered firstname James
+2019-11-16 00:40:18 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:40:18 INFO  MackarooFormPage -main : 54 - Entered lastname Brown
+2019-11-16 00:40:22 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:40:23 INFO  MackarooFormPage -main : 62 - Entered Email: abc@gmail.com
+2019-11-16 00:40:27 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:40:31 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:40:35 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:40:37 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-11-16 00:40:39 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-11-16 00:40:44 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:45:41 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-16 00:45:54 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-16 00:45:54 INFO  MackarooFormPage -main : 40 - Entered ID
+2019-11-16 00:45:58 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:45:59 INFO  MackarooFormPage -main : 48 - Entered firstname James
+2019-11-16 00:46:02 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:46:03 INFO  MackarooFormPage -main : 56 - Entered lastname Brown
+2019-11-16 00:46:07 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:46:07 INFO  MackarooFormPage -main : 64 - Entered Email: abc@gmail.com
+2019-11-16 00:46:11 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:46:15 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:46:19 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 00:46:21 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-11-16 00:46:24 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-11-16 00:46:28 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 01:14:30 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-16 01:14:44 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-16 01:14:44 INFO  MackarooFormPage -main : 42 - Entered ID
+2019-11-16 01:14:48 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 01:14:48 INFO  MackarooFormPage -main : 50 - Entered firstname James
+2019-11-16 01:14:52 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 01:14:52 INFO  MackarooFormPage -main : 58 - Entered lastname Brown
+2019-11-16 01:14:56 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 01:14:57 INFO  MackarooFormPage -main : 66 - Entered Email: abc@gmail.com
+2019-11-16 01:15:01 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 01:15:05 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 01:15:09 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 01:15:11 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-11-16 01:15:13 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-11-16 01:15:18 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 01:16:57 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-16 01:17:11 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-16 01:17:11 INFO  MackarooFormPage -main : 42 - Entered ID
+2019-11-16 01:17:15 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 01:17:16 INFO  MackarooFormPage -main : 50 - Entered firstname James
+2019-11-16 01:17:19 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 01:17:20 INFO  MackarooFormPage -main : 58 - Entered lastname Brown
+2019-11-16 01:17:24 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 01:17:24 INFO  MackarooFormPage -main : 66 - Entered Email: abc@gmail.com
+2019-11-16 01:17:28 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 01:17:32 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 01:17:36 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 01:17:38 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-11-16 01:17:41 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-11-16 01:17:45 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 01:20:47 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-16 01:21:00 INFO  HomePage -main : 37 - Clicked on Macharoo.com
+2019-11-16 01:21:01 INFO  MackarooFormPage -main : 42 - Entered ID
+2019-11-16 01:21:05 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 01:21:05 INFO  MackarooFormPage -main : 50 - Entered firstname James
+2019-11-16 01:21:09 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 01:21:09 INFO  MackarooFormPage -main : 58 - Entered lastname Brown
+2019-11-16 01:21:13 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 01:21:13 INFO  MackarooFormPage -main : 66 - Entered Email: abc@gmail.com
+2019-11-16 01:21:17 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 01:21:21 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 01:21:25 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 01:21:28 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-11-16 01:21:30 INFO  Common -main : 17 - sleep for 2000 seconds
+2019-11-16 01:21:34 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-16 01:21:37 INFO  Common -main : 17 - sleep for 3000 seconds
+2019-11-18 12:39:46 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-18 12:40:57 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-18 12:43:03 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-18 12:45:14 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-18 12:45:53 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-18 12:52:55 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-18 12:54:58 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-18 12:57:13 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-18 12:59:06 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-18 13:02:16 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-18 15:02:24 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-18 15:05:21 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-18 15:13:46 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-18 15:16:35 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-18 15:29:01 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-18 15:29:50 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-18 15:31:33 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-18 15:32:10 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-18 15:32:53 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-18 15:33:54 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-18 15:35:21 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-18 15:37:33 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-18 15:52:19 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-18 15:57:15 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-18 15:57:56 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-18 15:58:31 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-18 15:59:08 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-18 16:07:20 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-18 16:07:37 INFO  HomePage -main : 32 - Clicked on Sign In Link
+2019-11-18 16:07:37 INFO  LoginPage -main : 32 - Entered email as abc213@mailinator.com
+2019-11-18 16:07:38 INFO  LoginPage -main : 37 - Entered password as abc1234
+2019-11-18 16:07:40 INFO  LoginPage -main : 42 - Clicked on Sign In button
+2019-11-18 16:07:47 INFO  HomePage -main : 32 - Clicked on Sign In Link
+2019-11-18 16:07:47 INFO  LoginPage -main : 32 - Entered email as ivalid
+2019-11-18 16:07:48 INFO  LoginPage -main : 37 - Entered password as invalid
+2019-11-18 16:07:52 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-18 16:07:53 INFO  LoginPage -main : 42 - Clicked on Sign In button
+2019-11-18 16:07:58 INFO  HomePage -main : 32 - Clicked on Sign In Link
+2019-11-18 16:07:58 INFO  LoginPage -main : 32 - Entered email as invalid
+2019-11-18 16:07:58 INFO  LoginPage -main : 37 - Entered password as invalid
+2019-11-18 16:08:02 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-18 16:08:04 INFO  LoginPage -main : 42 - Clicked on Sign In button
+2019-11-18 16:08:09 INFO  HomePage -main : 32 - Clicked on Sign In Link
+2019-11-18 16:08:09 INFO  LoginPage -main : 32 - Entered email as abc213@mailinator.com
+2019-11-18 16:08:10 INFO  LoginPage -main : 37 - Entered password as invalid
+2019-11-18 16:08:14 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-18 16:08:15 INFO  LoginPage -main : 42 - Clicked on Sign In button
+2019-11-18 16:08:20 INFO  HomePage -main : 32 - Clicked on Sign In Link
+2019-11-18 16:08:20 INFO  LoginPage -main : 32 - Entered email as invalid
+2019-11-18 16:08:20 INFO  LoginPage -main : 37 - Entered password as abc1234
+2019-11-18 16:08:24 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-18 16:08:26 INFO  LoginPage -main : 42 - Clicked on Sign In button
+2019-11-18 16:08:31 INFO  HomePage -main : 32 - Clicked on Sign In Link
+2019-11-18 16:08:31 INFO  LoginPage -main : 32 - Entered email as invalid
+2019-11-18 16:08:31 INFO  LoginPage -main : 37 - Entered password as invalid
+2019-11-18 16:08:35 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-18 16:08:37 INFO  LoginPage -main : 42 - Clicked on Sign In button
+2019-11-18 16:08:38 INFO  LoginPage -main : 32 - Entered email as abc213@mailinator.com
+2019-11-18 16:08:38 INFO  LoginPage -main : 37 - Entered password as invalid
+2019-11-18 16:08:42 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-18 16:08:44 INFO  LoginPage -main : 42 - Clicked on Sign In button
+2019-11-18 16:08:45 INFO  LoginPage -main : 32 - Entered email as invalid
+2019-11-18 16:08:45 INFO  LoginPage -main : 37 - Entered password as abc1234
+2019-11-18 16:08:49 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-18 16:08:51 INFO  LoginPage -main : 42 - Clicked on Sign In button
+2019-11-18 16:15:09 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-18 16:15:27 INFO  HomePage -main : 32 - Clicked on Sign In Link
+2019-11-18 16:15:27 INFO  LoginPage -main : 32 - Entered email as abc213@mailinator.com
+2019-11-18 16:15:28 INFO  LoginPage -main : 37 - Entered password as abc1234
+2019-11-18 16:15:30 INFO  LoginPage -main : 42 - Clicked on Sign In button
+2019-11-18 16:15:38 INFO  HomePage -main : 32 - Clicked on Sign In Link
+2019-11-18 16:15:38 INFO  LoginPage -main : 32 - Entered email as ivalid
+2019-11-18 16:15:38 INFO  LoginPage -main : 37 - Entered password as invalid
+2019-11-18 16:15:42 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-18 16:15:44 INFO  LoginPage -main : 42 - Clicked on Sign In button
+2019-11-18 16:15:49 INFO  HomePage -main : 32 - Clicked on Sign In Link
+2019-11-18 16:15:49 INFO  LoginPage -main : 32 - Entered email as invalid
+2019-11-18 16:15:49 INFO  LoginPage -main : 37 - Entered password as invalid
+2019-11-18 16:15:53 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-18 16:16:13 INFO  HomePage -main : 32 - Clicked on Sign In Link
+2019-11-18 16:16:14 INFO  LoginPage -main : 32 - Entered email as abc213@mailinator.com
+2019-11-18 16:16:14 INFO  LoginPage -main : 37 - Entered password as invalid
+2019-11-18 16:16:18 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-18 16:24:31 INFO  DriverFarctory -main : 49 - Driver type set to chrome-headless
+2019-11-18 16:24:31 INFO  DriverFarctory -main : 49 - Driver type set to chrome-headless
+2019-11-18 16:24:31 INFO  DriverFarctory -main : 49 - Driver type set to chrome-headless
+2019-11-18 16:24:31 INFO  DriverFarctory -main : 49 - Driver type set to chrome-headless
+2019-11-18 16:24:31 INFO  DriverFarctory -main : 49 - Driver type set to chrome-headless
+2019-11-18 16:24:31 INFO  DriverFarctory -main : 49 - Driver type set to chrome-headless
+2019-11-18 16:24:43 INFO  DriverFarctory -main : 49 - Driver type set to chrome-headless
+2019-11-18 16:24:43 INFO  DriverFarctory -main : 49 - Driver type set to chrome-headless
+2019-11-18 16:24:44 INFO  DriverFarctory -main : 49 - Driver type set to chrome-headless
+2019-11-18 16:24:44 INFO  DriverFarctory -main : 49 - Driver type set to chrome-headless
+2019-11-18 16:24:44 INFO  DriverFarctory -main : 49 - Driver type set to chrome-headless
+2019-11-18 16:24:44 INFO  DriverFarctory -main : 49 - Driver type set to chrome-headless
+2019-11-18 16:25:08 INFO  DriverFarctory -main : 49 - Driver type set to chrome-headless
+2019-11-18 16:25:08 INFO  DriverFarctory -main : 49 - Driver type set to chrome-headless
+2019-11-18 16:25:08 INFO  DriverFarctory -main : 49 - Driver type set to chrome-headless
+2019-11-18 16:25:08 INFO  DriverFarctory -main : 49 - Driver type set to chrome-headless
+2019-11-18 16:25:08 INFO  DriverFarctory -main : 49 - Driver type set to chrome-headless
+2019-11-18 16:25:08 INFO  DriverFarctory -main : 49 - Driver type set to chrome-headless
+2019-11-18 17:15:51 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-18 17:16:13 INFO  HomePage -main : 32 - Clicked on Sign In Link
+2019-11-18 17:16:13 INFO  LoginPage -main : 32 - Entered email as abc213@mailinator.com
+2019-11-18 17:16:14 INFO  LoginPage -main : 37 - Entered password as abc1234
+2019-11-18 17:16:15 INFO  LoginPage -main : 42 - Clicked on Sign In button
+2019-11-18 17:16:59 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-18 17:19:07 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-18 17:19:27 INFO  HomePage -main : 32 - Clicked on Sign In Link
+2019-11-18 17:19:27 INFO  LoginPage -main : 32 - Entered email as abc213@mailinator.com
+2019-11-18 17:19:28 INFO  LoginPage -main : 37 - Entered password as abc1234
+2019-11-18 17:19:30 INFO  LoginPage -main : 42 - Clicked on Sign In button
+2019-11-18 17:19:34 INFO  HomePage -main : 32 - Clicked on Sign In Link
+2019-11-18 17:19:35 INFO  LoginPage -main : 32 - Entered email as ivalid
+2019-11-18 17:19:35 INFO  LoginPage -main : 37 - Entered password as invalid
+2019-11-18 17:19:39 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-18 17:19:41 INFO  LoginPage -main : 42 - Clicked on Sign In button
+2019-11-18 17:19:47 INFO  HomePage -main : 32 - Clicked on Sign In Link
+2019-11-18 17:19:47 INFO  LoginPage -main : 32 - Entered email as invalid
+2019-11-18 17:19:48 INFO  LoginPage -main : 37 - Entered password as invalid
+2019-11-18 17:19:52 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-18 17:19:55 INFO  LoginPage -main : 42 - Clicked on Sign In button
+2019-11-18 17:20:02 INFO  HomePage -main : 32 - Clicked on Sign In Link
+2019-11-18 17:20:02 INFO  LoginPage -main : 32 - Entered email as abc213@mailinator.com
+2019-11-18 17:20:02 INFO  LoginPage -main : 37 - Entered password as invalid
+2019-11-18 17:20:06 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-18 17:20:08 INFO  LoginPage -main : 42 - Clicked on Sign In button
+2019-11-18 17:20:13 INFO  HomePage -main : 32 - Clicked on Sign In Link
+2019-11-18 17:20:13 INFO  LoginPage -main : 32 - Entered email as invalid
+2019-11-18 17:20:13 INFO  LoginPage -main : 37 - Entered password as abc1234
+2019-11-18 17:20:17 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-18 17:20:20 INFO  LoginPage -main : 42 - Clicked on Sign In button
+2019-11-18 17:20:25 INFO  HomePage -main : 32 - Clicked on Sign In Link
+2019-11-18 17:20:25 INFO  LoginPage -main : 32 - Entered email as invalid
+2019-11-18 17:20:25 INFO  LoginPage -main : 37 - Entered password as invalid
+2019-11-18 17:20:29 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-18 17:20:32 INFO  LoginPage -main : 42 - Clicked on Sign In button
+2019-11-18 17:20:32 INFO  LoginPage -main : 32 - Entered email as abc213@mailinator.com
+2019-11-18 17:20:32 INFO  LoginPage -main : 37 - Entered password as invalid
+2019-11-18 17:20:36 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-18 17:20:39 INFO  LoginPage -main : 42 - Clicked on Sign In button
+2019-11-18 17:20:39 INFO  LoginPage -main : 32 - Entered email as invalid
+2019-11-18 17:20:39 INFO  LoginPage -main : 37 - Entered password as abc1234
+2019-11-18 17:20:43 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-18 17:20:45 INFO  LoginPage -main : 42 - Clicked on Sign In button
+2019-11-18 17:21:24 INFO  DriverFarctory -main : 49 - Driver type set to chrome-headless
+2019-11-18 17:21:24 INFO  DriverFarctory -main : 49 - Driver type set to chrome-headless
+2019-11-18 17:21:24 INFO  DriverFarctory -main : 49 - Driver type set to chrome-headless
+2019-11-18 17:21:24 INFO  DriverFarctory -main : 49 - Driver type set to chrome-headless
+2019-11-18 17:21:24 INFO  DriverFarctory -main : 49 - Driver type set to chrome-headless
+2019-11-18 17:21:24 INFO  DriverFarctory -main : 49 - Driver type set to chrome-headless
+2019-11-18 17:22:39 INFO  DriverFarctory -main : 49 - Driver type set to chrome-headless
+2019-11-18 17:23:14 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-18 17:33:02 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-18 17:34:16 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-18 17:35:04 INFO  DriverFarctory -main : 49 - Driver type set to chrome
+2019-11-18 17:35:22 INFO  HomePage -main : 32 - Clicked on Sign In Link
+2019-11-18 17:35:22 INFO  LoginPage -main : 32 - Entered email as invalid
+2019-11-18 17:35:22 INFO  LoginPage -main : 37 - Entered password as invalid
+2019-11-18 17:35:26 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-18 17:35:28 INFO  LoginPage -main : 42 - Clicked on Sign In button
+2019-11-18 17:35:35 INFO  HomePage -main : 32 - Clicked on Sign In Link
+2019-11-18 17:35:35 INFO  LoginPage -main : 32 - Entered email as abc213@mailinator.com
+2019-11-18 17:35:35 INFO  LoginPage -main : 37 - Entered password as invalid
+2019-11-18 17:35:39 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-18 17:35:43 INFO  LoginPage -main : 42 - Clicked on Sign In button
+2019-11-18 17:35:51 INFO  HomePage -main : 32 - Clicked on Sign In Link
+2019-11-18 17:35:51 INFO  LoginPage -main : 32 - Entered email as invalid
+2019-11-18 17:35:51 INFO  LoginPage -main : 37 - Entered password as abc1234
+2019-11-18 17:35:55 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-18 17:35:57 INFO  LoginPage -main : 42 - Clicked on Sign In button
+2019-11-18 17:38:23 INFO  DriverFarctory -main : 50 - Driver type set to chrome-headless
+2019-11-18 17:38:41 INFO  HomePage -main : 32 - Clicked on Sign In Link
+2019-11-18 17:38:41 INFO  LoginPage -main : 32 - Entered email as invalid
+2019-11-18 17:38:41 INFO  LoginPage -main : 37 - Entered password as invalid
+2019-11-18 17:38:45 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-18 17:38:48 INFO  LoginPage -main : 42 - Clicked on Sign In button
+2019-11-18 17:38:52 INFO  HomePage -main : 32 - Clicked on Sign In Link
+2019-11-18 17:38:52 INFO  LoginPage -main : 32 - Entered email as abc213@mailinator.com
+2019-11-18 17:38:52 INFO  LoginPage -main : 37 - Entered password as invalid
+2019-11-18 17:38:56 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-18 17:38:58 INFO  LoginPage -main : 42 - Clicked on Sign In button
+2019-11-18 17:39:03 INFO  HomePage -main : 32 - Clicked on Sign In Link
+2019-11-18 17:39:03 INFO  LoginPage -main : 32 - Entered email as invalid
+2019-11-18 17:39:03 INFO  LoginPage -main : 37 - Entered password as abc1234
+2019-11-18 17:39:07 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-18 17:39:09 INFO  LoginPage -main : 42 - Clicked on Sign In button
+2019-11-18 18:10:07 INFO  DriverFarctory -main : 50 - Driver type set to chrome-headless
+2019-11-18 18:12:47 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-18 18:12:58 INFO  HomePage -main : 32 - Clicked on Sign In Link
+2019-11-18 18:12:58 INFO  LoginPage -main : 32 - Entered email as invalid
+2019-11-18 18:12:59 INFO  LoginPage -main : 37 - Entered password as invalid
+2019-11-18 18:13:03 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-18 18:13:04 INFO  LoginPage -main : 42 - Clicked on Sign In button
+2019-11-18 18:13:08 INFO  HomePage -main : 32 - Clicked on Sign In Link
+2019-11-18 18:13:09 INFO  LoginPage -main : 32 - Entered email as abc213@mailinator.com
+2019-11-18 18:13:09 INFO  LoginPage -main : 37 - Entered password as invalid
+2019-11-18 18:13:13 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-18 18:13:14 INFO  LoginPage -main : 42 - Clicked on Sign In button
+2019-11-18 18:13:17 INFO  HomePage -main : 32 - Clicked on Sign In Link
+2019-11-18 18:13:18 INFO  LoginPage -main : 32 - Entered email as invalid
+2019-11-18 18:13:18 INFO  LoginPage -main : 37 - Entered password as abc1234
+2019-11-18 18:13:22 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-18 18:13:23 INFO  LoginPage -main : 42 - Clicked on Sign In button
+2019-11-18 18:17:11 INFO  DriverFarctory -main : 50 - Driver type set to chrome-headless
+2019-11-18 18:17:21 INFO  HomePage -main : 32 - Clicked on Sign In Link
+2019-11-18 18:17:22 INFO  LoginPage -main : 32 - Entered email as invalid
+2019-11-18 18:17:22 INFO  LoginPage -main : 37 - Entered password as invalid
+2019-11-18 18:17:26 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-18 18:17:27 INFO  LoginPage -main : 42 - Clicked on Sign In button
+2019-11-18 18:17:30 INFO  HomePage -main : 32 - Clicked on Sign In Link
+2019-11-18 18:17:31 INFO  LoginPage -main : 32 - Entered email as abc213@mailinator.com
+2019-11-18 18:17:31 INFO  LoginPage -main : 37 - Entered password as invalid
+2019-11-18 18:17:35 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-18 18:17:36 INFO  LoginPage -main : 42 - Clicked on Sign In button
+2019-11-18 18:17:39 INFO  HomePage -main : 32 - Clicked on Sign In Link
+2019-11-18 18:17:39 INFO  LoginPage -main : 32 - Entered email as invalid
+2019-11-18 18:17:39 INFO  LoginPage -main : 37 - Entered password as abc1234
+2019-11-18 18:17:43 INFO  Common -main : 17 - sleep for 4000 seconds
+2019-11-18 18:17:44 INFO  LoginPage -main : 42 - Clicked on Sign In button
+2019-11-18 18:21:32 INFO  DriverFarctory -main : 50 - Driver type set to chrome-headless
+2019-11-18 18:21:43 INFO  HomePage -main : 37 - Clicked on Contact Us Link
+2019-11-18 18:21:43 INFO  TestDataGenerator -main : 14 - random first name is generated: Isabella
+2019-11-18 18:21:43 INFO  TestDataGenerator -main : 19 - random last name is generated: Batz
+2019-11-18 18:21:50 INFO  HomePage -main : 32 - Clicked on Sign In Link
+2019-11-18 18:21:50 INFO  LoginPage -main : 32 - Entered email as abc213@mailinator.com
+2019-11-18 18:21:51 INFO  LoginPage -main : 37 - Entered password as abc1234
+2019-11-18 18:21:52 INFO  LoginPage -main : 42 - Clicked on Sign In button
+2019-11-18 18:31:57 INFO  DriverFarctory -main : 50 - Driver type set to chrome-headless
+2019-11-18 18:52:46 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-18 20:12:27 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-18 23:40:49 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-18 23:42:26 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-18 23:53:42 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-18 23:55:46 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-18 23:57:52 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-18 23:59:43 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-19 00:09:13 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-19 00:10:46 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-19 00:59:13 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-19 01:13:49 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-19 01:21:06 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-19 01:23:59 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-19 01:37:32 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-19 01:38:56 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-19 01:40:08 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-19 01:40:58 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-19 01:43:37 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-19 01:45:06 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-19 01:46:11 INFO  DriverFarctory -main : 50 - Driver type set to chrome
