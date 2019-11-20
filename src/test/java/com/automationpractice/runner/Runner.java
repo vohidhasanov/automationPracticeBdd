@@ -16,7 +16,7 @@ import org.junit.runner.RunWith;
         features = {"src\\test\\resources\\features"},
 
         glue = {    "com.automationpractice.steps", "com.mockaroo.excel_generator" },
-        tags={  "@excel"
+        tags={  "@excel1"
              //   "@login", "@wip"
               //  "@login"
         }  //~@contactUs // tilda is used to skip scenarios/features
