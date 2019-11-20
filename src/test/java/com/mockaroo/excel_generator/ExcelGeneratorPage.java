@@ -1,6 +1,8 @@
 package com.mockaroo.excel_generator;
 
 import com.automationpractice.utilities.CommonPage;
+import org.apache.poi.ss.usermodel.Cell;
+import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.xssf.streaming.SXSSFWorkbook;
@@ -31,8 +33,17 @@ final class ExcelGeneratorPage extends CommonPage {
         int numberOfRows = sheet.getLastRowNum();
 
         for (int row=0; row <= numberOfRows; row++) {
-            System.out.println(sheet.getRow(row));
+            Row rowObj = sheet.getRow(row);
+            int colomns = rowObj.getLastCellNum();
+
+            for (int colomn=0; colomn<colomns; colomn++) {
+                Cell cell = rowObj.getCell(colomn);
+                System.out.print(cell.toString()+ "|");
+            }
+            System.out.println();
         }
+        workbook.close();
+        fileInputStream.close();
     }
 
 
