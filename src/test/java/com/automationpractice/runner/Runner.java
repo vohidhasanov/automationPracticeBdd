@@ -15,10 +15,10 @@ import org.junit.runner.RunWith;
                 },
         features = {"src\\test\\resources\\features"},
 
-        glue = {    "com.automationpractice.steps" },
-        tags={ // "@excel"
+        glue = {    "com.automationpractice.steps", "com.mockaroo.excel_generator" },
+        tags={  "@excel"
              //   "@login", "@wip"
-                "@login"
+              //  "@login"
         }  //~@contactUs // tilda is used to skip scenarios/features
 
        // dryRun=true

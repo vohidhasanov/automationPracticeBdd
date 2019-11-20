@@ -12,6 +12,8 @@ import java.io.IOException;
 
 public final class Common {
     private static Logger logger = Logger.getLogger(Common.class);
+    public static final String USER_HOME_DIR = System.getProperty("user.home");
+    public static final String USER_DIR = System.getProperty("user.dir");
 
 
 private Common () {}

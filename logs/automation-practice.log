@@ -1851,3 +1851,8 @@
 2019-11-20 16:31:32 INFO  LoginPage -main : 37 - Entered password as invalid
 2019-11-20 16:31:36 INFO  Common -main : 23 - sleep for 4000 seconds
 2019-11-20 16:31:38 INFO  LoginPage -main : 42 - Clicked on Sign In button
+2019-11-20 16:41:33 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-20 16:44:01 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-20 16:46:17 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-20 16:47:16 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-20 16:50:23 INFO  DriverFarctory -main : 50 - Driver type set to chrome
