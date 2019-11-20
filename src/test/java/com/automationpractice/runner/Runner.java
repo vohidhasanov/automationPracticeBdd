@@ -21,7 +21,7 @@ import org.junit.runner.RunWith;
               //  "@login"
         }  //~@contactUs // tilda is used to skip scenarios/features
 
-       // dryRun=true
+      //  ,dryRun=true
 )
 public class Runner extends CommonStep {
 
