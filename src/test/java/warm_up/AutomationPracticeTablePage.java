@@ -70,7 +70,6 @@ public final class AutomationPracticeTablePage extends CommonPage {
 
         for (int index=0; index<headerNum; index++) {
             System.out.print(headers.get(index).getText()+"  | ");
-
         }
       System.out.println();
       System.out.print("__________________________________________________________");

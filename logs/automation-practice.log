@@ -1839,3 +1839,15 @@
 2019-11-19 01:43:37 INFO  DriverFarctory -main : 50 - Driver type set to chrome
 2019-11-19 01:45:06 INFO  DriverFarctory -main : 50 - Driver type set to chrome
 2019-11-19 01:46:11 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-19 15:23:51 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-19 15:37:28 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-20 16:31:05 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-20 16:31:24 INFO  HomePage -main : 32 - Clicked on Sign In Link
+2019-11-20 16:31:24 INFO  LoginPage -main : 32 - Entered email as abc213@mailinator.com
+2019-11-20 16:31:24 INFO  LoginPage -main : 37 - Entered password as abc1234
+2019-11-20 16:31:26 INFO  LoginPage -main : 42 - Clicked on Sign In button
+2019-11-20 16:31:32 INFO  HomePage -main : 32 - Clicked on Sign In Link
+2019-11-20 16:31:32 INFO  LoginPage -main : 32 - Entered email as ivalid
+2019-11-20 16:31:32 INFO  LoginPage -main : 37 - Entered password as invalid
+2019-11-20 16:31:36 INFO  Common -main : 23 - sleep for 4000 seconds
+2019-11-20 16:31:38 INFO  LoginPage -main : 42 - Clicked on Sign In button
