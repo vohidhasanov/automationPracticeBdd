@@ -12,3 +12,7 @@ Feature: Excel Generator
           |first_name |First Name   |
           |last_name  |Last Name    |
           |address    |Street Address|
+          |address    |Street Address|
+          |address    |Street Address|
+          |address    |Street Address|
+          |address    |Street Address|

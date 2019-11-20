@@ -3,7 +3,7 @@ package com.automationpractice.utilities;
 import org.openqa.selenium.WebDriver;
 
 public abstract class CommonPage extends DriverHelper{
-    private DriverHelper  driverHelper;
+   // private DriverHelper  driverHelper;
 
     protected CommonPage (WebDriver driver) {
        super(driver);
@@ -12,7 +12,7 @@ public abstract class CommonPage extends DriverHelper{
 
     protected abstract boolean isLoaded();
 
-    protected DriverHelper getDriverHelper () {
-        return driverHelper;
-    }
+//    protected DriverHelper getDriverHelper () {
+//        return driverHelper;
+//    }
 }

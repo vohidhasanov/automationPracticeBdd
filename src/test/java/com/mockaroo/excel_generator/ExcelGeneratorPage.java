@@ -3,6 +3,7 @@ package com.mockaroo.excel_generator;
 import com.automationpractice.utilities.Common;
 import com.automationpractice.utilities.CommonPage;
 import com.automationpractice.utilities.DriverHelper;
+import org.apache.log4j.Logger;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.ss.usermodel.Sheet;
@@ -21,7 +22,8 @@ import java.util.List;
 final class ExcelGeneratorPage extends CommonPage {
     private static int timeOutInSeconds=15;
     private static ExcelGeneratorPage excelGeneratorPage;
-    private DriverHelper driverHelper = getDriverHelper();
+    private static final Logger logger = Logger.getLogger(ExcelGeneratorPage.class);
+  //  private DriverHelper driverHelper = getDriverHelper();
 
     static ExcelGeneratorPage getExcelGeneratorPage (WebDriver webDriver) {
     if (excelGeneratorPage==null) excelGeneratorPage = new ExcelGeneratorPage(webDriver);
@@ -54,11 +56,11 @@ final class ExcelGeneratorPage extends CommonPage {
         fileInputStream.close();
     }
     int getNumberOfRows () {
-    return driverHelper.getElements(By.cssSelector("#fields .fields"),timeOutInSeconds).size();
+    return getElements(By.cssSelector("#fields .fields"),timeOutInSeconds).size();
     }
 
     void deleteRows (int numberOfRowsToDelete) {
-        List<WebElement> rowElements = driverHelper.getElements(By.cssSelector("#fields .fields"),timeOutInSeconds);
+        List<WebElement> rowElements = getElements(By.cssSelector("#fields .fields"),timeOutInSeconds);
 
         for (int row = 1; row<=numberOfRowsToDelete; row++) {
             int index = rowElements.size() - row;
@@ -68,8 +70,29 @@ final class ExcelGeneratorPage extends CommonPage {
             deleteIcon.click();
             Common.sleep(2);
             //rowElements.get(index).findElement(By.cssSelector(".column-remove")).click(); // other way
-
         }
+    }
+
+    void enterFieldName (int row, String fieldName) {
+        boolean isRow = isRow(row+1);
+        if (!isRow)
+        clickAtAnotherFieldButton();
+
+        //sendKeys(By.id("schema_columns_attributes_"+ row +"_name"),fieldName,timeOutInSeconds);
+        sendKeysList(By.cssSelector("[placeholder^='enter name...']"), row, fieldName, timeOutInSeconds);
+    }
+
+   void clickAtAnotherFieldButton () {
+        click(By.linkText("Add another field"),timeOutInSeconds);
+   }
+    private boolean isRow (int row) {
+        boolean isRow = false;
+        try {
+            isRow = getElement(By.cssSelector("#fields .fields"), row, timeOutInSeconds).isDisplayed();
+        } catch (Exception e) {
+            logger.error(e.getMessage() );
+        }
+        return isRow;
     }
 
 

@@ -1868,3 +1868,51 @@
 2019-11-20 18:25:32 INFO  DriverFarctory -main : 50 - Driver type set to chrome
 2019-11-20 18:26:35 INFO  DriverFarctory -main : 50 - Driver type set to chrome
 2019-11-20 18:28:20 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-20 19:04:17 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-20 19:04:34 INFO  Common -main : 25 - sleep for 2000 seconds
+2019-11-20 19:04:36 INFO  Common -main : 25 - sleep for 2000 seconds
+2019-11-20 19:37:03 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-20 19:37:13 INFO  Common -main : 25 - sleep for 2000 seconds
+2019-11-20 19:37:16 INFO  Common -main : 25 - sleep for 2000 seconds
+2019-11-20 19:39:11 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-20 19:39:21 INFO  Common -main : 25 - sleep for 2000 seconds
+2019-11-20 19:39:23 INFO  Common -main : 25 - sleep for 2000 seconds
+2019-11-20 19:40:50 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-20 19:41:00 INFO  Common -main : 25 - sleep for 2000 seconds
+2019-11-20 19:41:02 INFO  Common -main : 25 - sleep for 2000 seconds
+2019-11-20 19:50:02 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-20 19:50:12 INFO  Common -main : 25 - sleep for 2000 seconds
+2019-11-20 19:50:14 INFO  Common -main : 25 - sleep for 2000 seconds
+2019-11-20 19:51:43 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-20 19:51:57 INFO  Common -main : 25 - sleep for 2000 seconds
+2019-11-20 19:51:59 INFO  Common -main : 25 - sleep for 2000 seconds
+2019-11-20 19:52:03 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-20 19:52:06 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-20 19:52:10 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-20 19:52:13 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-20 19:56:13 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-20 19:56:26 INFO  Common -main : 25 - sleep for 2000 seconds
+2019-11-20 19:56:29 INFO  Common -main : 25 - sleep for 2000 seconds
+2019-11-20 19:56:31 INFO  Common -main : 25 - sleep for 2000 seconds
+2019-11-20 19:56:34 INFO  Common -main : 25 - sleep for 2000 seconds
+2019-11-20 19:56:36 INFO  Common -main : 25 - sleep for 2000 seconds
+2019-11-20 19:56:38 INFO  Common -main : 25 - sleep for 2000 seconds
+2019-11-20 19:56:38 ERROR ExcelGeneratorPage -main : 92 - Index: 6, Size: 6
+2019-11-20 20:04:37 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-20 20:04:51 INFO  Common -main : 25 - sleep for 2000 seconds
+2019-11-20 20:04:53 INFO  Common -main : 25 - sleep for 2000 seconds
+2019-11-20 20:04:55 INFO  Common -main : 25 - sleep for 2000 seconds
+2019-11-20 20:04:58 INFO  Common -main : 25 - sleep for 2000 seconds
+2019-11-20 20:05:00 INFO  Common -main : 25 - sleep for 2000 seconds
+2019-11-20 20:15:09 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-20 20:16:22 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-20 20:16:35 INFO  Common -main : 25 - sleep for 2000 seconds
+2019-11-20 20:16:38 INFO  Common -main : 25 - sleep for 2000 seconds
+2019-11-20 20:16:40 INFO  Common -main : 25 - sleep for 2000 seconds
+2019-11-20 20:16:43 INFO  Common -main : 25 - sleep for 2000 seconds
+2019-11-20 20:16:45 INFO  Common -main : 25 - sleep for 2000 seconds
+2019-11-20 20:16:47 INFO  Common -main : 25 - sleep for 2000 seconds
+2019-11-20 20:16:47 ERROR ExcelGeneratorPage -main : 93 - Index: 6, Size: 6
+2019-11-20 20:16:50 INFO  Common -main : 25 - sleep for 2000 seconds
+2019-11-20 20:16:50 ERROR ExcelGeneratorPage -main : 93 - Index: 7, Size: 7
+2019-11-20 20:16:53 INFO  Common -main : 25 - sleep for 2000 seconds

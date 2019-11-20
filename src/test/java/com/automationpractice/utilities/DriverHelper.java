@@ -74,6 +74,12 @@ public class DriverHelper {
         textBox.sendKeys(text);
     }
 
+    public void sendKeysList (By by, int index,  String text, int timeOutInSeconds) {
+        WebElement textBoxs = getElement(by, index+1,timeOutInSeconds);
+        textBoxs.clear();
+        textBoxs.sendKeys(text);
+    }
+
     public String getText (By by, int timeOutInSeconds) {
         return getElement(by, timeOutInSeconds).getText().replaceAll("\\s+", " ").trim();
     }

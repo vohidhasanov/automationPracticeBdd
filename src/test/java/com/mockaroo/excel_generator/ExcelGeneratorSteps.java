@@ -30,7 +30,12 @@ private final ExcelGeneratorPage excelGeneratorPage = ExcelGeneratorPage.getExce
         int numberOfRows = excelGeneratorPage.getNumberOfRows();
         if (numberOfRows > dataTableList.size())
             excelGeneratorPage.deleteRows(numberOfRows-dataTableList.size());
-
+            for (int index =0; index<dataTableList.size(); index++) {
+               String fieldName = dataTableList.get(index).get("field name");
+               String typeName = dataTableList.get(index).get("type");
+               excelGeneratorPage.enterFieldName(index, fieldName);
+               Common.sleep(2);
+            }
 
 
     }
