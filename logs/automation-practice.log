@@ -1931,3 +1931,14 @@
 2019-11-21 16:46:15 INFO  Common -main : 25 - sleep for 2000 seconds
 2019-11-21 16:46:18 INFO  Common -main : 25 - sleep for 2000 seconds
 2019-11-21 16:46:20 INFO  Common -main : 25 - sleep for 2000 seconds
+2019-11-21 17:03:06 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-21 17:03:22 INFO  Common -main : 25 - sleep for 2000 seconds
+2019-11-21 17:03:25 INFO  Common -main : 25 - sleep for 2000 seconds
+2019-11-21 17:03:27 INFO  Common -main : 25 - sleep for 2000 seconds
+2019-11-21 17:03:29 INFO  Common -main : 25 - sleep for 2000 seconds
+2019-11-21 17:03:32 INFO  Common -main : 25 - sleep for 2000 seconds
+2019-11-21 17:03:34 INFO  Common -main : 25 - sleep for 2000 seconds
+2019-11-21 17:03:34 ERROR ExcelGeneratorPage -main : 95 - Index: 6, Size: 6
+2019-11-21 17:03:37 INFO  Common -main : 25 - sleep for 2000 seconds
+2019-11-21 17:03:37 ERROR ExcelGeneratorPage -main : 95 - Index: 7, Size: 7
+2019-11-21 17:03:39 INFO  Common -main : 25 - sleep for 2000 seconds
