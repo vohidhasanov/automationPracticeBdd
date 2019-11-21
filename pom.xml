@@ -42,6 +42,22 @@
             <target>7</target>
           </configuration>
         </plugin>
+
+
+        <plugin>
+          <groupId>org.apache.maven.plugins</groupId>
+          <artifactId>maven-surefire-plugin</artifactId>
+          <version>2.20.1</version>
+          <configuration>
+            <suiteXmlFiles>
+              <suiteXmlFile>C:\Users\Vohid-PC\gitRepo\automationPracticeBdd\src\test\resources\testngxmlfiles\SmokeTest.xml</suiteXmlFile>
+            </suiteXmlFiles>
+          </configuration>
+        </plugin>
+
+
+
+
       </plugins>
     </build>
 
@@ -111,12 +127,12 @@
 
 
   <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-junit -->
-  <dependency>
-    <groupId>io.cucumber</groupId>
-    <artifactId>cucumber-junit</artifactId>
-    <version>4.8.0</version>
-    <scope>test</scope>
-  </dependency>
+<!--  <dependency>-->
+<!--    <groupId>io.cucumber</groupId>-->
+<!--    <artifactId>cucumber-junit</artifactId>-->
+<!--    <version>4.8.0</version>-->
+<!--    <scope>test</scope>-->
+<!--  </dependency>-->
 
 
 

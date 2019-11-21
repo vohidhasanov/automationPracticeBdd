@@ -82,10 +82,12 @@ final class ExcelGeneratorPage extends CommonPage {
         sendKeysList(By.cssSelector("[placeholder^='enter name...']"), row, fieldName, timeOutInSeconds);
     }
 
-   void clickAtAnotherFieldButton () {
+   private void clickAtAnotherFieldButton() {
+
         click(By.linkText("Add another field"),timeOutInSeconds);
    }
-    private boolean isRow (int row) {
+
+   private boolean isRow (int row) {
         boolean isRow = false;
         try {
             isRow = getElement(By.cssSelector("#fields .fields"), row, timeOutInSeconds).isDisplayed();

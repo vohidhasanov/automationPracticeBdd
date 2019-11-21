@@ -28,9 +28,11 @@ private final ExcelGeneratorPage excelGeneratorPage = ExcelGeneratorPage.getExce
     public void user_add_field_name_and_type(DataTable dataTable) {
         List<Map<String, String>> dataTableList = dataTable.asMaps(String.class, String.class);
         int numberOfRows = excelGeneratorPage.getNumberOfRows();
+
         if (numberOfRows > dataTableList.size())
             excelGeneratorPage.deleteRows(numberOfRows-dataTableList.size());
-            for (int index =0; index<dataTableList.size(); index++) {
+
+        for (int index =0; index<dataTableList.size(); index++) {
                String fieldName = dataTableList.get(index).get("field name");
                String typeName = dataTableList.get(index).get("type");
                excelGeneratorPage.enterFieldName(index, fieldName);
