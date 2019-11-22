@@ -68,7 +68,7 @@ final class ExcelGeneratorPage extends CommonPage {
             WebElement rowElement = rowElements.get(index);
             WebElement deleteIcon = rowElement.findElement(By.cssSelector(".column-remove"));
             deleteIcon.click();
-            Common.sleep(2);
+            Common.sleep(1);
             //rowElements.get(index).findElement(By.cssSelector(".column-remove")).click(); // other way
         }
     }
@@ -76,15 +76,31 @@ final class ExcelGeneratorPage extends CommonPage {
     void enterFieldName (int row, String fieldName) {
         boolean isRow = isRow(row+1);
         if (!isRow)
-        clickAtAnotherFieldButton();
-
+            clickAtAnotherFieldButton();
         //sendKeys(By.id("schema_columns_attributes_"+ row +"_name"),fieldName,timeOutInSeconds);
-        sendKeysList(By.cssSelector("[placeholder^='enter name...']"), row, fieldName, timeOutInSeconds);
+        sendKeys(By.cssSelector("[placeholder^='enter name...']"), row+1, fieldName, timeOutInSeconds);
+    }
+
+    void chooseType (int row, String type) {
+        click(By.cssSelector("[placeholder ='choose type...']"), row+1, timeOutInSeconds );
+        sendKeys(By.id("type_search_field"), type, timeOutInSeconds);
+        click(By.xpath("//div[@class='type-name'][contains(text(),'"+type +"')]"),timeOutInSeconds);
+      //  webElementInVisibility(By.cssSelector(" .modal-backdrop"),timeOutInSeconds);
     }
 
    private void clickAtAnotherFieldButton() {
-
         click(By.linkText("Add another field"),timeOutInSeconds);
+   }
+
+   void addRows (int row) {
+        sendKeys(By.id("num_rows"),String.valueOf(row),timeOutInSeconds);
+   }
+   void selectFileFormatType (String format) {
+        selectDropdownValue(By.id("schema_file_format"), format,timeOutInSeconds);
+   }
+
+   void clickDownloadButton () {
+        click(By.id("download"),timeOutInSeconds);
    }
 
    private boolean isRow (int row) {

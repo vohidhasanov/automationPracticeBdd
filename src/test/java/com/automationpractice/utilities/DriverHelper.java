@@ -3,10 +3,12 @@ package com.automationpractice.utilities;
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.*;
 import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.io.File;
 import java.io.IOException;
+//import java.time.Clock;
 import java.util.List;
 import static org.junit.Assert.*;
 
@@ -36,6 +38,13 @@ public class DriverHelper {
                 .until(ExpectedConditions.visibilityOfElementLocated(by));
     }
 
+    public void webElementInVisibility(By by, int timeOutInSeconds) {
+        new WebDriverWait(driver, timeOutInSeconds)
+                .until(ExpectedConditions.invisibilityOfElementLocated(by));
+    }
+
+
+
     public WebElement getElement (By by, int timeOutInSeconds)
     {
         webElementVisibility(by, timeOutInSeconds);
@@ -54,9 +63,18 @@ public class DriverHelper {
     }
 
     public void click(By by, int timeOutInSeconds) {
-        getElement(by, timeOutInSeconds).click();
+        WebElement webElement = getElement(by, timeOutInSeconds);
+        try {
+            webElement.click();
+        } catch (WebDriverException e) {
+         //   scrollToElement(by);
+            scrollToElement(webElement.getLocation().getX(), webElement.getLocation().getY()-200);
+            webElement.click();
+        }
         //Reporter.step.info("Clicked button "+by.toString().substring(by.toString().indexOf(':')));
     }
+
+
 
     public List<WebElement> getElements (By by, int timeOutInSeconds)
     {
@@ -70,14 +88,21 @@ public class DriverHelper {
 
     public void sendKeys (By by, String text, int timeOutInSeconds) {
         WebElement textBox = getElement(by, timeOutInSeconds);
+        scrollToElement (textBox.getLocation().getX(), textBox.getLocation().getY()-200);
         textBox.clear();
         textBox.sendKeys(text);
     }
 
-    public void sendKeysList (By by, int index,  String text, int timeOutInSeconds) {
-        WebElement textBoxs = getElement(by, index+1,timeOutInSeconds);
-        textBoxs.clear();
-        textBoxs.sendKeys(text);
+    public void sendKeys (By by, int index,  String text, int timeOutInSeconds) {
+        WebElement textBox = getElement(by, index,timeOutInSeconds);
+        scrollToElement (textBox.getLocation().getX(), textBox.getLocation().getY()-200);
+        textBox.clear();
+        textBox.sendKeys(text);
+    }
+
+    public void selectDropdownValue (By by, String text, int timeOutInSeconds) {
+    Select select  = new Select (getElement(by, timeOutInSeconds));
+    select.selectByVisibleText(text);
     }
 
     public String getText (By by, int timeOutInSeconds) {
@@ -126,7 +151,6 @@ public class DriverHelper {
             click(by, 15);
         } catch (WebDriverException e)
         {
-           // Common.sleep(1);
             scrollToElement(by);
             click(by,15);
         }

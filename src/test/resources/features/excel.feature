@@ -8,11 +8,15 @@ Feature: Excel Generator
       Given User navigates to "https://mockaroo.com/" website
       When User add field name and type
           |field name |type         |
-          |id         |Number       |
+          |id         |Row Number   |
           |first_name |First Name   |
           |last_name  |Last Name    |
-          |address    |Street Address|
-          |address    |Street Address|
-          |address    |Street Address|
-          |address    |Street Address|
-          |address    |Street Address|
+          |email    |Street Address|
+          |gender    |Street Address|
+
+
+
+
+      And User adds 100 rows with file format "Excel"
+      And User clicks download button
+      Then User validate the file is downloaded successfully

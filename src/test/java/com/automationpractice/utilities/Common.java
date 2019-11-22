@@ -29,7 +29,17 @@ private Common () {}
         }
     }
 
-
+    public static boolean isFile (String pathName) {
+    File file = new File(pathName);
+    boolean isFile = file.exists();
+    int numberOfAttemps = 0;
+    while (!isFile && numberOfAttemps <=5) {
+        sleep(1);
+        isFile=file.exists();
+        numberOfAttemps++;
+    }
+    return isFile;
+    }
 
     public static void deleteFiles (String directoryPath) {
         File file = new File  (System.getProperty("user_id")+directoryPath);
