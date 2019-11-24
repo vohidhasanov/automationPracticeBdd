@@ -2,6 +2,8 @@ package com.mockaroo.excel_generator;
 
 import com.automationpractice.utilities.Common;
 import com.automationpractice.utilities.CommonStep;
+import com.automationpractice.utilities.DataStoreUtils;
+import com.automationpractice.utilities.ExcelUtils;
 import io.cucumber.datatable.DataTable;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
@@ -57,11 +59,27 @@ private final ExcelGeneratorPage excelGeneratorPage = ExcelGeneratorPage.getExce
 
     @Then("User validate the file is downloaded successfully")
     public void user_validate_the_file_is_downloaded_successfully() throws IOException {
-    String filePath = Common.USER_HOME_DIR+"/Downloads/MOCK_DATA.xlsx";
+    String filePath = Common.USER_HOME_DIR+"/Downloads/MOCK_DATA.xlsx"; //C:\Users\Vohid-PC\gitRepo\automationPracticeBdd\src\test\resources\Files
         boolean isFileDownloaded = Common.isFile(filePath);
     assertTrue("File is not downloaded", isFileDownloaded);
-    excelGeneratorPage.printExcelContent(filePath);
+    //excelGeneratorPage.printExcelContent(filePath);
+
+    Map <Integer, List <String>> excellDataMap = ExcelUtils.getExcelDataAsMaps(filePath);
+    for (Map.Entry<Integer, List <String>> map : excellDataMap.entrySet()) {
+        System.out.print(map.getKey()+ "\t");
+        for (int index=0; index<map.getValue().size(); index++)
+            System.out.print(map.getValue().get(index)+"\t");
+
+        System.out.println("\n====================================================================");
+    }
+        DataStoreUtils.storeData("excel data", excellDataMap);
 
     Common.sleep(3);
     }
+
+    @Then("User saves data in new {string}")
+    public void user_saves_data_in_new(String fileName) throws IOException {
+        ExcelUtils.wrieteToExcel(fileName);
+    }
+
 }

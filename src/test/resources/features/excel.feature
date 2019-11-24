@@ -11,12 +11,9 @@ Feature: Excel Generator
           |id         |Row Number   |
           |first_name |First Name   |
           |last_name  |Last Name    |
-          |email    |Street Address|
-          |gender    |Street Address|
-
-
-
+          |address    |Street Address|
 
       And User adds 100 rows with file format "Excel"
       And User clicks download button
       Then User validate the file is downloaded successfully
+      And User saves data in new "students"

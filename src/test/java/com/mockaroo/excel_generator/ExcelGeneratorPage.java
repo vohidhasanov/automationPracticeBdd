@@ -25,7 +25,7 @@ final class ExcelGeneratorPage extends CommonPage {
     private static final Logger logger = Logger.getLogger(ExcelGeneratorPage.class);
   //  private DriverHelper driverHelper = getDriverHelper();
 
-    static ExcelGeneratorPage getExcelGeneratorPage (WebDriver webDriver) {
+    static ExcelGeneratorPage getExcelGeneratorPage (WebDriver webDriver) {          // Singleton method
     if (excelGeneratorPage==null) excelGeneratorPage = new ExcelGeneratorPage(webDriver);
     return excelGeneratorPage;
     }
@@ -112,6 +112,7 @@ final class ExcelGeneratorPage extends CommonPage {
         }
         return isRow;
     }
+
 
 
 

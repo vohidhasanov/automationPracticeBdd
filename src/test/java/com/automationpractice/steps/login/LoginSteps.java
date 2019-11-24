@@ -7,6 +7,7 @@ import com.automationpractice.utilities.AppProperties;
 import com.automationpractice.utilities.Common;
 import com.automationpractice.utilities.CommonStep;
 
+import com.automationpractice.utilities.DataStoreUtils;
 import io.cucumber.datatable.DataTable;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
@@ -38,7 +39,8 @@ public class LoginSteps extends CommonStep {
       String password ="abc1234";
         loginPage.enterEmail(email);
         loginPage.enterPassword(password);
-
+        DataStoreUtils.storeData("email", email);
+        DataStoreUtils.storeData("passwoer", password);
            }
 
     @When("User clicks on sign in button")
@@ -48,6 +50,8 @@ public class LoginSteps extends CommonStep {
 
     @Then("User is on account page")
     public void user_is_on_account_page() {
+      String expectedText = DataStoreUtils.getObjectAsString("email"); // We can retrieve any data that we have stored in DataStoreUtils.storeData method
+        System.out.println(expectedText);
         String actualHeader = myAccountPage.getHeader();
       assertEquals("MY ACCOUNT", actualHeader);
     }

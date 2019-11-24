@@ -13,15 +13,22 @@ import org.junit.runner.RunWith;
                   ,"json:target/cucumber_report/cucumber.json"
                   ,"rerun:target/failed_scenarios/rerun.txt"
                 },
-        features = {"src\\test\\resources\\features"},
+        features = {
+                       "src\\test\\resources\\features\\"
 
-        glue = {    "com.automationpractice.steps", "com.mockaroo.excel_generator" },
+                    },
+
+        glue = {   // "com.automationpractice.steps",
+                    "com.mockaroo.excel_generator",
+                   //   "us.techcenture"
+                   },
         tags={  "@excel1"
              //   "@login", "@wip"
               //  "@login"
+               // "@techcenture"
         }  //~@contactUs // tilda is used to skip scenarios/features
 
-      //,dryRun=true
+     // ,dryRun=true
 )
 public class Runner extends CommonStep {
 

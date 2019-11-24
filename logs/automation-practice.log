@@ -2201,3 +2201,65 @@
 2019-11-22 15:22:08 INFO  Common -main : 25 - sleep for 3000 seconds
 2019-11-22 15:22:10 INFO  Common -main : 25 - sleep for 1000 seconds
 2019-11-22 15:22:14 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-24 03:09:56 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-24 03:10:05 ERROR CommonStep -main : 35 - expected:<[Automation Practice Table]> but was:<[TECHCENTURE ACADEMY]>
+2019-11-24 03:13:52 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-24 03:14:00 ERROR CommonStep -main : 35 - expected:<[Automation Practice Table]> but was:<[TECHCENTURE ACADEMY]>
+2019-11-24 03:16:44 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-24 03:16:53 ERROR CommonStep -main : 35 - expected:<[Automation Practice Table]> but was:<[TECHCENTURE ACADEMY]>
+2019-11-24 03:18:00 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-24 03:18:08 ERROR CommonStep -main : 35 - expected:<[Automation Practice Table]> but was:<[TECHCENTURE ACADEMY]>
+2019-11-24 03:20:56 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-24 03:21:04 ERROR CommonStep -main : 35 - expected:<[Automation Practice Table]> but was:<[TECHCENTURE ACADEMY]>
+2019-11-24 03:24:40 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-24 03:24:48 ERROR CommonStep -main : 35 - expected:<[Automation Practice Table]> but was:<[TECHCENTURE ACADEMY]>
+2019-11-24 03:24:58 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-24 03:29:09 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-24 03:29:17 ERROR CommonStep -main : 35 - expected:<[Automation Practice Table]> but was:<[TECHCENTURE ACADEMY]>
+2019-11-24 03:29:27 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-24 03:34:19 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-24 03:34:27 ERROR CommonStep -main : 35 - expected:<[Automation Practice Table]> but was:<[TECHCENTURE ACADEMY]>
+2019-11-24 03:34:37 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-24 03:37:50 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-24 03:37:58 ERROR CommonStep -main : 35 - expected:<[Automation Practice Table]> but was:<[TECHCENTURE ACADEMY]>
+2019-11-24 03:38:07 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-24 03:41:09 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-24 03:42:52 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-24 03:43:03 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-24 03:44:53 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-24 03:45:05 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-24 03:45:09 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-24 10:01:26 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-24 10:01:37 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-24 10:01:41 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-24 10:18:29 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-24 10:18:42 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-24 12:13:02 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-24 12:13:06 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-24 13:09:46 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-24 13:11:07 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-24 14:04:26 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-24 14:04:30 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-24 14:05:49 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-24 14:05:54 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-24 14:06:59 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-24 14:07:03 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-24 14:08:46 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-24 14:08:50 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-24 14:11:53 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-24 14:11:57 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-24 14:13:15 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-24 14:13:19 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-24 14:16:53 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-24 14:16:57 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-24 14:17:41 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-24 14:17:45 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-24 14:25:18 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-24 14:25:24 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-24 14:25:25 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-24 14:25:29 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-24 14:25:31 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-24 14:25:34 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-24 14:25:37 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-24 14:25:40 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-24 14:25:47 INFO  Common -main : 25 - sleep for 3000 seconds
