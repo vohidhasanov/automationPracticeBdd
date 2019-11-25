@@ -13,6 +13,7 @@ import java.util.List;
 import static org.junit.Assert.*;
 
 public class DriverHelper {
+    private int timeOutInSeconds = AppProperties.TIME_OUT_IN_SECONDS;
     private WebDriver driver;
     private String mainWindowHandle;
     
@@ -57,10 +58,15 @@ public class DriverHelper {
         return driver.findElements(by).get(index-1);
     }
 
+    public void clickByLinkText (String linkText) {
+        clickByLinkText((linkText), timeOutInSeconds);
+    }
+
     public void clickByLinkText(String linkText, int timeOutInSeconds) {
         click(By.linkText(linkText), timeOutInSeconds);
         //Reporter.step.info("Clicked button "+by.toString().substring(by.toString().indexOf(':')));
     }
+
 
     public void click(By by, int timeOutInSeconds) {
         WebElement webElement = getElement(by, timeOutInSeconds);
@@ -146,6 +152,10 @@ public class DriverHelper {
         executeJS("arguments[0].click()", webElement);
     }
 
+
+
+
+
     public void click1 (By by) {
         try {
             click(by, 15);
@@ -204,4 +214,14 @@ public class DriverHelper {
             assertEquals(actualString, expectedText);
         }
     }
+
+    public void clickButton (String buttonText) {
+        clickButton(buttonText, timeOutInSeconds);
+    }
+
+    public void clickButton (String buttonText, int timeOutInSeconds) {
+        click(By.xpath("//button[contains(normalize-space(.), '"+ buttonText +"')]"), timeOutInSeconds);
+    }
+
+
 }

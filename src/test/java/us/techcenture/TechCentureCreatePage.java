@@ -35,6 +35,7 @@ public TechCentureCreatePage(WebDriver driver) {
             techCentureCreatePage.sendKeys(By.id("course"), 1, course,15);
             techCentureCreatePage.sendKeys(By.id("age"), 1, studentAge,15);
             Common.sleep(3);
+
         }
 
     }

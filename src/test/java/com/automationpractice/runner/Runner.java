@@ -1,7 +1,7 @@
 package com.automationpractice.runner;
 
 import com.automationpractice.utilities.CommonStep;
-import com.google.gson.internal.bind.util.ISO8601Utils;
+//import com.google.gson.internal.bind.util.ISO8601Utils;
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
 import org.junit.AfterClass;
@@ -14,21 +14,23 @@ import org.junit.runner.RunWith;
                   ,"rerun:target/failed_scenarios/rerun.txt"
                 },
         features = {
-                       "src\\test\\resources\\features\\"
-
+                       "src\\test\\resources\\features"
                     },
 
-        glue = {   // "com.automationpractice.steps",
-                    "com.mockaroo.excel_generator",
-                   //   "us.techcenture"
+        glue = {  // "com.automationpractice.steps",
+                   // "com.mockaroo.excel_generator",
+                     //"us.techcenture"
+                "us.techcenture"
+
                    },
-        tags={  "@excel1"
+        tags={ "@loginTechCenture",
+                //"@excel1"
              //   "@login", "@wip"
               //  "@login"
                // "@techcenture"
         }  //~@contactUs // tilda is used to skip scenarios/features
 
-     // ,dryRun=true
+    // ,dryRun=true
 )
 public class Runner extends CommonStep {
 

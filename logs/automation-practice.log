@@ -2263,3 +2263,46 @@
 2019-11-24 14:25:37 INFO  Common -main : 25 - sleep for 1000 seconds
 2019-11-24 14:25:40 INFO  Common -main : 25 - sleep for 3000 seconds
 2019-11-24 14:25:47 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-24 21:55:50 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-24 21:55:56 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-24 21:55:58 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-24 21:56:01 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-24 21:56:09 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-24 21:56:48 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-24 21:56:54 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-24 21:56:55 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-24 21:56:57 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-24 21:57:00 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-24 21:57:03 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-24 21:57:06 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-24 21:57:09 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-24 21:57:12 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-24 21:57:17 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-24 21:58:12 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-24 21:58:18 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-24 21:58:19 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-24 21:58:22 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-24 21:58:25 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-24 21:58:27 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-24 21:58:30 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-24 21:58:33 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-25 20:21:34 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-25 20:21:47 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-25 20:30:47 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-25 21:27:54 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-25 21:32:06 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-25 21:35:12 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-25 21:36:09 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-25 21:47:46 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-25 21:51:21 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-25 21:52:23 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-25 21:56:43 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-25 22:01:56 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-25 22:05:17 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-25 23:45:33 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-25 23:46:29 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-25 23:48:52 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-25 23:52:08 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-25 23:53:53 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-25 23:55:38 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-25 23:58:43 INFO  DriverFarctory -main : 50 - Driver type set to chrome

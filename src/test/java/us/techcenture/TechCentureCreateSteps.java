@@ -4,6 +4,7 @@ import com.automationpractice.utilities.Common;
 import com.automationpractice.utilities.CommonStep;
 import io.cucumber.datatable.DataTable;
 import io.cucumber.java.en.Given;
+import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -15,6 +16,10 @@ import java.util.Map;
 public class TechCentureCreateSteps extends CommonStep {
     private final TechCentureCreatePage techCentureCreatePage = TechCentureCreatePage.getTechCentureCreatePage(getDriver());
 
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     @Given("User navigates to {string}")
     public void user_navigates_to(String url) {
     techCentureCreatePage.operUrl(url);
@@ -27,6 +32,7 @@ public class TechCentureCreateSteps extends CommonStep {
         techCentureCreatePage.clickByLinkText(("Create new Student"),15);
         List<Map<String, String>> formData = formTable.asMaps(String.class, String.class);
         techCentureCreatePage.enterDataToCreateStudentTable(formData);
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //        int formSize = formData.size();
 //
 //        for (int index=0; index<formSize; index++) {

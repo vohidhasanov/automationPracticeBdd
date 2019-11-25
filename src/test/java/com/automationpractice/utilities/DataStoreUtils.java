@@ -4,7 +4,7 @@ import java.util.Hashtable;
 import java.util.List;
 import java.util.Map;
 
-public final class DataStoreUtils {
+public class DataStoreUtils {
     private DataStoreUtils () { }
 
     private static Map<String, Object> dataStore;
