@@ -78,4 +78,9 @@ public class CreateStudentStep extends CommonStep {
         assertEquals(actualAge, DataStoreUtils.getObjectAsString("age"));
     }
 
+    @Then("User should validate student data in database")
+    public void user_should_validate_student_data_in_database() {
+
+    }
+
 }
