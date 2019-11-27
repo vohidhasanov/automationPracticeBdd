@@ -1,6 +1,6 @@
 package com.automationpractice.utilities;
 
-import org.apache.log4j.Logger;
+//import org.apache.log4j.Logger;
 
 import java.sql.*;
 import java.util.ArrayList;
@@ -8,18 +8,14 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class DatabaseConnection {
-    private static final Logger logger = Logger.getLogger(DatabaseConnection.class);
-    private static  Connection connection;
+public class HR_DB_DEMO {
+   // private static final Logger logger = Logger.getLogger(HR_DB_DEMO.class);
+    private static Connection connection;
 
 
-    static {
-    init();
-    }
 
-    private static void init () {
-        if (connection == null) connection = new DatabaseConnection().getConnection();
-    }
+
+
 
     public static void closeDbConnection () {
         if (connection != null) {
@@ -27,28 +23,42 @@ public class DatabaseConnection {
                 connection.close();
                 connection=null;
             } catch (SQLException e) {
-                logger.error(e.getMessage());
+        //        logger.error(e.getMessage());
                 e.printStackTrace();
             }
         }
     }
 
-    protected DatabaseConnection () {}
+    protected HR_DB_DEMO() {}
 
-    private  Connection getConnection () {
+
+    public static void main(String[] args) {
+        connection = getConnection();
+
+
+        List<Map<String, Object>> list = new HR_DB_DEMO().getQueryResultAsMaps("select*from film");
+        for (int index = 0; index < list.size(); index++) {
+            Map<String, Object> map = list.get(index);
+            for (Map.Entry<String, Object> m : map.entrySet()) {
+                System.out.print(m.getKey() + "-" + m.getValue() + " ");
+            }
+            System.out.println();
+        }
+    }
+    static   Connection getConnection () {
         Connection connection = null;
-        String dbUrl = AppProperties.DB_URL;
-        String dbPort = AppProperties.DB_PORT;
-        String dbName = AppProperties.DB_NAME;
-        String dbUser =AppProperties.DB_USER;
-        String dbPassword = AppProperties.DB_PASSWORD;
+        String dbUrl = "database-2.ckajjvtsvcoe.us-east-1.rds.amazonaws.com";
+        String dbPort = "5432";
+        String dbName = "dvdrental";
+        String dbUser ="user";
+        String dbPassword = "user";
 
-        dbUrl = "jdbc:mysql://"+dbUrl + ":" +dbPort + "/" + dbName;
+        dbUrl = "jdbc:postgresql://"+dbUrl + ":" +dbPort + "/" + dbName;
 
         try {
             connection = DriverManager.getConnection(dbUrl, dbUser,dbPassword);
         } catch (SQLException e) {
-            logger.error(e.getMessage());
+     //       logger.error(e.getMessage());
             e.printStackTrace();
         }
         return connection;
@@ -64,7 +74,7 @@ public class DatabaseConnection {
             statement.close();;
             resultSet.close();
         } catch (SQLException e) {
-            logger.error(e.getMessage());
+   //         logger.error(e.getMessage());
             e.printStackTrace();
         }
         return result;
@@ -88,7 +98,7 @@ public class DatabaseConnection {
             statement.close();
             statement.close();
         } catch (SQLException e) {
-            logger.error(e.getMessage());
+     //       logger.error(e.getMessage());
             e.printStackTrace();
         }
         return queryResults;
@@ -115,13 +125,13 @@ public class DatabaseConnection {
             statement.close();
             resultSet.close();
         } catch (SQLException e) {
-            logger.error(e.getMessage());
+     //       logger.error(e.getMessage());
             e.printStackTrace();
         }
         return result;
     }
-
-
-
-
 }
+
+
+
+

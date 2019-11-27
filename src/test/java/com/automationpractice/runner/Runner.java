@@ -18,19 +18,19 @@ import org.junit.runner.RunWith;
                     },
 
         glue = {  // "com.automationpractice.steps",
-                   // "com.mockaroo.excel_generator",
-                     //"us.techcenture"
-                "us.techcenture"
+                    "com.mockaroo.excel_generator",
+                   //"us.techcenture"
+               // "us.techcenture"
 
                    },
-        tags={ "@loginTechCenture",
-                //"@excel1"
+        tags={// "@loginTechCenture",
+                "@excel1"
              //   "@login", "@wip"
               //  "@login"
                // "@techcenture"
         }  //~@contactUs // tilda is used to skip scenarios/features
 
-    // ,dryRun=true
+     //,dryRun=true
 )
 public class Runner extends CommonStep {
 

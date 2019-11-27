@@ -3,6 +3,7 @@ package com.automationpractice.steps;
 import com.automationpractice.pages.home.HomePage;
 import com.automationpractice.utilities.AppProperties;
 import com.automationpractice.utilities.CommonStep;
+import com.automationpractice.utilities.DatabaseConnection;
 import io.cucumber.core.api.Scenario;
 import io.cucumber.java.After;
 import io.cucumber.java.AfterStep;
@@ -37,7 +38,7 @@ private WebDriver driver = getDriver();
         scenario.embed(screenshot,"image/png");
    }
     validateAll();
-   // closeDriver();
+        DatabaseConnection.closeDbConnection();
     }
 
     @AfterStep

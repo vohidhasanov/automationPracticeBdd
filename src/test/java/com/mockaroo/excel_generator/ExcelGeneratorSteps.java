@@ -82,4 +82,10 @@ private final ExcelGeneratorPage excelGeneratorPage = ExcelGeneratorPage.getExce
         ExcelUtils.wrieteToExcel(fileName);
     }
 
+//    @Then("User randomly select firstName and SecondName")
+//    public void user_randomly_select_firstName_and_SecondName() throws IOException {
+//        String filePath = Common.USER_HOME_DIR+"/Downloads/MOCK_DATA.xlsx";
+//    excelGeneratorPage.pickRandomDataFromExcelFile(filePath, 2);
+//    }
+
 }

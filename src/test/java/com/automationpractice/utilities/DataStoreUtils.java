@@ -15,12 +15,15 @@ public final class DataStoreUtils {
     }
 
     public static Object getObject (String key) {
-        return dataStore.get(key);
+        return  dataStore.containsKey(key) ? dataStore.get(key) : null ;
     }
 
     public static String getObjectAsString (String key) {
-        return getObject(key).toString();
+        return getObject(key) !=null ? getObject(key).toString() : "";
     }
+
+    public static int getObjectAsInt (String key) {
+        return getObject(key) !=null ? Integer.parseInt(getObject(key).toString()) : 0;    }
 
     public static Map <Integer, List<String>> getObjectAsMap (String key) {
         return (Map <Integer, List<String>>) getObject(key);

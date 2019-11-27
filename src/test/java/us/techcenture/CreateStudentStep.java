@@ -1,5 +1,6 @@
 package us.techcenture;
 
+import com.automationpractice.utilities.Common;
 import com.automationpractice.utilities.CommonStep;
 import com.automationpractice.utilities.DataStoreUtils;
 import io.cucumber.datatable.DataTable;
@@ -9,12 +10,14 @@ import io.cucumber.java.en.When;
 import static org.junit.Assert.*;
 
 import java.util.List;
+import java.util.Map;
 
 public class CreateStudentStep extends CommonStep {
 
         private HomePage1 homePage1 = HomePage1.getHomePage(getDriver());
     private StudentListPage studentListPage = StudentListPage.getStudentListPage(getDriver());
     private CreateStudentPage createStudentPage = CreateStudentPage.getcreateStudentPage(getDriver());
+    private CommonTechcentureDbQueries techcentureDbQueries =   CommonTechcentureDbQueries.getCommonTechcentureDbQueries();
 
 
     @Given("User navigates to home page {string}")
@@ -49,7 +52,7 @@ public class CreateStudentStep extends CommonStep {
         createStudentPage.enterStudentData(CreateStudentPage.CreateStudentFields.COURSE, course);
         createStudentPage.enterStudentData(CreateStudentPage.CreateStudentFields.STUDENT_AGE, age);
 
-        DataStoreUtils.storeData("name", name);
+        DataStoreUtils.storeData("first name", name);
         DataStoreUtils.storeData("last name", lastName);
         DataStoreUtils.storeData("course", course);
         DataStoreUtils.storeData("age", age);
@@ -63,7 +66,7 @@ public class CreateStudentStep extends CommonStep {
 
     @Then("User should see his name in the student list")
     public void user_should_see_his_name_in_the_student_list() {
-    String name = DataStoreUtils.getObjectAsString("name");
+    String name = DataStoreUtils.getObjectAsString("first name");
     String [] studentData = studentListPage.getStudentData(name);
 
         String actualID = studentData [0];
@@ -76,10 +79,34 @@ public class CreateStudentStep extends CommonStep {
         assertEquals(actualLastName, DataStoreUtils.getObjectAsString("last name"));
         assertEquals(actualCourse, DataStoreUtils.getObjectAsString("course"));
         assertEquals(actualAge, DataStoreUtils.getObjectAsString("age"));
+
+        DataStoreUtils.storeData("student id", actualID);
     }
 
     @Then("User should validate student data in database")
     public void user_should_validate_student_data_in_database() {
+    int id = DataStoreUtils.getObjectAsInt("student id");
+        String firstName = techcentureDbQueries.getFirsNameOfStudent(id);
+        String lastName = techcentureDbQueries.getLastNameOfStudent(id);
+        String course = techcentureDbQueries.getCourseOfStudent(id);
+        int age = techcentureDbQueries.getAgeOfStudent(id);
+
+        assertEquals(firstName, DataStoreUtils.getObjectAsString("first name"));
+        assertEquals(lastName, DataStoreUtils.getObjectAsString("last name"));
+        assertEquals(course, DataStoreUtils.getObjectAsString("course"));
+        assertEquals(String.valueOf(age), DataStoreUtils.getObjectAsString("age"));
+
+        System.out.println("the first name from the Database = "+firstName);
+        System.out.println(techcentureDbQueries.getStudentData(91));
+
+        List <Map<String, Object>> list = techcentureDbQueries.getStudentsData();
+        for (int index=0; index<list.size(); index++) {
+            Map <String, Object> map = list.get(index);
+            for (Map.Entry<String, Object> m : map.entrySet()) {
+                System.out.print(m.getKey()+"-"+ m.getValue()+" ");
+            }
+            System.out.println();
+        }
 
     }
 

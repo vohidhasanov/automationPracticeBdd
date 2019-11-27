@@ -2310,3 +2310,116 @@
 2019-11-26 15:05:01 INFO  DriverFarctory -main : 50 - Driver type set to chrome
 2019-11-26 15:08:19 INFO  DriverFarctory -main : 50 - Driver type set to chrome
 2019-11-26 15:18:47 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-27 12:08:23 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-27 12:08:23 ERROR DatabaseConnection -main : 35 - No suitable driver found for api-techcenture.ckajjvtsvcoe.us-east-1.rds.amazonaws.com:3306/mysqldb
+2019-11-27 12:15:36 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-27 12:15:36 ERROR DatabaseConnection -main : 35 - No suitable driver found for api-techcenture.ckajjvtsvcoe.us-east-1.rds.amazonaws.com:3306/mysqldb
+2019-11-27 12:20:09 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-27 12:20:09 ERROR DatabaseConnection -main : 35 - No suitable driver found for api-techcenture.ckajjvtsvcoe.us-east-1.rds.amazonaws.com:3306/mysqldb
+2019-11-27 12:25:34 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-27 12:26:26 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-27 12:27:42 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-27 12:27:46 ERROR DatabaseConnection -main : 51 - Column Index out of range, 2 > 1. 
+2019-11-27 12:28:47 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-27 12:32:39 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-27 20:04:01 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-27 20:06:17 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-27 20:11:05 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-27 20:12:49 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-27 20:57:37 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-27 21:48:32 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-27 21:49:53 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-27 21:50:50 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-27 23:00:28 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-27 23:01:31 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-27 23:02:06 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-27 23:03:18 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-27 23:14:34 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-27 23:15:40 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-28 01:00:05 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-28 01:00:11 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:00:12 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:00:15 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:00:17 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:00:20 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:00:22 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:00:26 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-28 01:00:32 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-28 01:01:24 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-28 01:01:30 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:01:31 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:01:35 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:01:38 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:01:40 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:01:43 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:01:46 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-28 01:01:52 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-28 01:02:48 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-28 01:02:54 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:02:55 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:02:58 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:03:00 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:03:03 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:03:05 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:03:09 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-28 01:04:35 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-28 01:07:18 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-28 01:07:24 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:07:25 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:07:27 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:07:30 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:07:33 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:07:35 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:07:38 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-28 01:07:45 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-28 01:08:29 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-28 01:08:34 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:08:36 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:08:38 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:08:41 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:08:44 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:08:46 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:08:50 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-28 01:09:04 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-28 01:09:35 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-28 01:09:47 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:09:53 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:09:59 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:10:01 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:10:04 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:10:06 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:10:09 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-28 01:10:16 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-28 01:11:30 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-28 01:11:41 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:11:47 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:11:52 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:11:54 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:11:57 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:11:59 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:12:03 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-28 01:12:21 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-28 01:12:57 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-28 01:13:09 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:13:13 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:13:16 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:13:19 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:13:22 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:13:25 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:13:28 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-28 01:13:30 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:13:35 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-28 01:14:25 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-28 01:14:35 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:14:42 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:14:51 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:15:05 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:28:39 INFO  DriverFarctory -main : 50 - Driver type set to chrome
+2019-11-28 01:28:45 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:28:46 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:28:49 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:28:52 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:28:54 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:28:57 INFO  Common -main : 25 - sleep for 1000 seconds
+2019-11-28 01:29:00 INFO  Common -main : 25 - sleep for 3000 seconds
+2019-11-28 01:29:07 INFO  Common -main : 25 - sleep for 3000 seconds

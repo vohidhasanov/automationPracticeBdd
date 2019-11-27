@@ -16,4 +16,5 @@ Feature: Excel Generator
       And User adds 100 rows with file format "Excel"
       And User clicks download button
       Then User validate the file is downloaded successfully
-      And User saves data in new "students"
+     And User saves data in new "students"
+#      And User randomly select firstName and SecondName

@@ -2,6 +2,7 @@ package com.mockaroo.excel_generator;
 
 import com.automationpractice.utilities.Common;
 import com.automationpractice.utilities.CommonPage;
+import com.automationpractice.utilities.DatabaseConnection;
 import com.automationpractice.utilities.DriverHelper;
 import org.apache.log4j.Logger;
 import org.apache.poi.ss.usermodel.Cell;
@@ -14,6 +15,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
+
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -23,6 +25,8 @@ final class ExcelGeneratorPage extends CommonPage {
     private static int timeOutInSeconds=15;
     private static ExcelGeneratorPage excelGeneratorPage;
     private static final Logger logger = Logger.getLogger(ExcelGeneratorPage.class);
+    DatabaseConnection databaseConnection;
+
   //  private DriverHelper driverHelper = getDriverHelper();
 
     static ExcelGeneratorPage getExcelGeneratorPage (WebDriver webDriver) {          // Singleton method
@@ -55,6 +59,9 @@ final class ExcelGeneratorPage extends CommonPage {
         workbook.close();
         fileInputStream.close();
     }
+
+
+
     int getNumberOfRows () {
     return getElements(By.cssSelector("#fields .fields"),timeOutInSeconds).size();
     }
